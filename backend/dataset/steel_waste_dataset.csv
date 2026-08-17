@@ -1,0 +1,1201 @@
+production_process,raw_material,process_stage,material_category,production_quantity,material_quantity,waste_type
+Basic Oxygen Furnace,Scrap Steel,Finishing,Flux Material,104.0,105.98,Blast Furnace Slag
+Basic Oxygen Furnace,Zinc Coating Material,Finishing,Coating Material,80.16,56.85,Blast Furnace Slag
+Electric Arc Furnace,Scrap Steel,Refining,Non-Ferrous Metal,154.78,197.95,Mill Scale
+Forging,Iron Ore,Rolling,Coating Material,115.45,86.43,Steel Scrap
+Continuous Casting,Zinc Coating Material,Rolling,Flux Material,69.5,67.23,Mill Scale
+Galvanizing,Scrap Steel,Melting,Fuel/Reductant,69.43,55.81,Zinc Ash
+Cold Rolling,Scrap Steel,Finishing,Fuel/Reductant,53.72,46.01,Mill Scale
+Forging,Scrap Steel,Coating,Flux Material,96.72,111.19,Mill Scale
+Galvanizing,Alloy Additives,Refining,Ferrous Metal,87.43,55.3,Zinc Ash
+Cold Rolling,Scrap Steel,Refining,Ferrous Metal,43.6,31.36,Pickling Sludge
+Galvanizing,Iron Ore,Casting,Flux Material,65.31,59.31,Zinc Ash
+Basic Oxygen Furnace,Alloy Additives,Finishing,Non-Ferrous Metal,75.0,71.0,Steel Scrap
+Finishing & Grinding,Limestone,Casting,Coating Material,117.88,113.64,Steel Scrap
+Electric Arc Furnace,Iron Ore,Melting,Flux Material,48.43,35.32,EAF Dust
+Galvanizing,Iron Ore,Finishing,Fuel/Reductant,114.19,84.18,Zinc Ash
+Finishing & Grinding,Iron Ore,Casting,Non-Ferrous Metal,91.27,75.55,Steel Scrap
+Cold Rolling,Zinc Coating Material,Coating,Fuel/Reductant,42.38,36.01,Steel Scrap
+Hot Rolling,Iron Ore,Coating,Fuel/Reductant,61.8,60.56,Blast Furnace Slag
+Continuous Casting,Zinc Coating Material,Refining,Fuel/Reductant,97.11,125.35,Steel Scrap
+Finishing & Grinding,Alloy Additives,Casting,Coating Material,71.98,53.2,Blast Furnace Slag
+Cold Rolling,Zinc Coating Material,Casting,Ferrous Metal,127.38,83.03,Pickling Sludge
+Electric Arc Furnace,Zinc Coating Material,Finishing,Flux Material,122.78,83.63,Waste Gas Sludge
+Basic Oxygen Furnace,Zinc Coating Material,Casting,Coating Material,97.39,62.77,Steel Scrap
+Continuous Casting,Alloy Additives,Coating,Ferrous Metal,124.81,103.3,Steel Scrap
+Basic Oxygen Furnace,Coke,Casting,Non-Ferrous Metal,117.44,109.28,Blast Furnace Slag
+Basic Oxygen Furnace,Scrap Steel,Finishing,Fuel/Reductant,143.21,157.43,Waste Gas Sludge
+Continuous Casting,Iron Ore,Finishing,Fuel/Reductant,98.57,93.21,Blast Furnace Slag
+Forging,Iron Ore,Coating,Non-Ferrous Metal,152.6,137.23,Mill Scale
+Galvanizing,Limestone,Coating,Fuel/Reductant,88.15,84.27,Zinc Ash
+Galvanizing,Scrap Steel,Coating,Coating Material,74.76,57.9,Zinc Ash
+Basic Oxygen Furnace,Zinc Coating Material,Finishing,Ferrous Metal,149.45,97.72,Blast Furnace Slag
+Galvanizing,Scrap Steel,Coating,Non-Ferrous Metal,67.8,48.33,Zinc Ash
+Continuous Casting,Zinc Coating Material,Coating,Coating Material,122.06,89.18,Steel Scrap
+Forging,Iron Ore,Melting,Ferrous Metal,97.29,95.1,Mill Scale
+Forging,Limestone,Finishing,Ferrous Metal,62.32,56.02,Mill Scale
+Basic Oxygen Furnace,Scrap Steel,Rolling,Flux Material,73.83,88.78,Waste Gas Sludge
+Hot Rolling,Iron Ore,Coating,Fuel/Reductant,85.18,64.35,Mill Scale
+Finishing & Grinding,Iron Ore,Melting,Fuel/Reductant,76.9,64.31,Pickling Sludge
+Basic Oxygen Furnace,Scrap Steel,Finishing,Coating Material,79.37,86.68,Waste Gas Sludge
+Hot Rolling,Iron Ore,Rolling,Fuel/Reductant,100.26,128.36,Mill Scale
+Electric Arc Furnace,Iron Ore,Rolling,Ferrous Metal,33.25,20.81,Waste Gas Sludge
+Finishing & Grinding,Coke,Rolling,Coating Material,84.06,80.01,Mill Scale
+Hot Rolling,Coke,Refining,Ferrous Metal,78.31,73.82,Steel Scrap
+Galvanizing,Scrap Steel,Melting,Coating Material,96.23,74.04,Zinc Ash
+Continuous Casting,Scrap Steel,Coating,Ferrous Metal,132.69,147.25,Refractory Waste
+Basic Oxygen Furnace,Zinc Coating Material,Refining,Fuel/Reductant,114.78,119.67,Blast Furnace Slag
+Hot Rolling,Alloy Additives,Coating,Ferrous Metal,107.72,127.62,Steel Scrap
+Galvanizing,Coke,Refining,Flux Material,189.66,138.56,Zinc Ash
+Cold Rolling,Limestone,Casting,Ferrous Metal,88.61,54.19,Pickling Sludge
+Basic Oxygen Furnace,Scrap Steel,Coating,Non-Ferrous Metal,68.26,51.78,Steel Scrap
+Galvanizing,Scrap Steel,Refining,Flux Material,52.43,45.65,Zinc Ash
+Cold Rolling,Alloy Additives,Finishing,Coating Material,103.06,71.76,Pickling Sludge
+Cold Rolling,Zinc Coating Material,Melting,Non-Ferrous Metal,59.99,72.84,Pickling Sludge
+Continuous Casting,Coke,Casting,Coating Material,74.01,78.6,Mill Scale
+Cold Rolling,Alloy Additives,Rolling,Flux Material,93.38,71.84,Steel Scrap
+Basic Oxygen Furnace,Zinc Coating Material,Rolling,Flux Material,140.74,172.84,Blast Furnace Slag
+Continuous Casting,Zinc Coating Material,Casting,Non-Ferrous Metal,94.62,79.9,Refractory Waste
+Forging,Alloy Additives,Melting,Ferrous Metal,116.08,142.54,Steel Scrap
+Continuous Casting,Alloy Additives,Melting,Flux Material,94.26,62.11,Steel Scrap
+Continuous Casting,Scrap Steel,Casting,Flux Material,97.98,120.42,Refractory Waste
+Electric Arc Furnace,Coke,Refining,Non-Ferrous Metal,95.9,68.34,Steel Scrap
+Forging,Alloy Additives,Finishing,Non-Ferrous Metal,61.96,67.18,Refractory Waste
+Continuous Casting,Iron Ore,Rolling,Ferrous Metal,49.16,37.66,Mill Scale
+Forging,Zinc Coating Material,Finishing,Non-Ferrous Metal,110.67,124.23,Steel Scrap
+Basic Oxygen Furnace,Limestone,Melting,Fuel/Reductant,124.25,123.98,Blast Furnace Slag
+Finishing & Grinding,Coke,Casting,Non-Ferrous Metal,100.61,86.26,Steel Scrap
+Forging,Coke,Casting,Ferrous Metal,57.03,49.91,Refractory Waste
+Forging,Zinc Coating Material,Coating,Flux Material,59.07,61.54,Refractory Waste
+Cold Rolling,Iron Ore,Coating,Flux Material,85.47,80.75,Pickling Sludge
+Galvanizing,Zinc Coating Material,Casting,Fuel/Reductant,148.18,163.85,Pickling Sludge
+Forging,Alloy Additives,Refining,Flux Material,52.21,66.19,Steel Scrap
+Hot Rolling,Coke,Rolling,Ferrous Metal,103.42,88.85,Pickling Sludge
+Galvanizing,Zinc Coating Material,Melting,Flux Material,103.04,123.35,Zinc Ash
+Galvanizing,Limestone,Finishing,Flux Material,82.43,71.68,Pickling Sludge
+Forging,Zinc Coating Material,Finishing,Non-Ferrous Metal,70.03,69.31,Mill Scale
+Electric Arc Furnace,Coke,Casting,Non-Ferrous Metal,119.39,129.8,EAF Dust
+Galvanizing,Limestone,Rolling,Fuel/Reductant,57.18,73.94,Pickling Sludge
+Continuous Casting,Zinc Coating Material,Melting,Flux Material,90.61,87.24,Steel Scrap
+Galvanizing,Scrap Steel,Refining,Flux Material,98.43,107.46,Zinc Ash
+Electric Arc Furnace,Scrap Steel,Refining,Fuel/Reductant,106.64,85.9,Steel Scrap
+Finishing & Grinding,Limestone,Finishing,Coating Material,104.75,129.81,Steel Scrap
+Finishing & Grinding,Limestone,Refining,Non-Ferrous Metal,104.7,99.58,Blast Furnace Slag
+Forging,Iron Ore,Refining,Coating Material,107.06,123.87,Steel Scrap
+Basic Oxygen Furnace,Limestone,Refining,Fuel/Reductant,132.34,110.72,Steel Scrap
+Galvanizing,Limestone,Coating,Coating Material,60.28,37.68,Zinc Ash
+Finishing & Grinding,Iron Ore,Finishing,Fuel/Reductant,76.82,75.27,Steel Scrap
+Cold Rolling,Alloy Additives,Rolling,Non-Ferrous Metal,111.93,70.08,Pickling Sludge
+Cold Rolling,Iron Ore,Casting,Flux Material,39.44,33.61,Pickling Sludge
+Continuous Casting,Iron Ore,Refining,Fuel/Reductant,87.32,65.58,Steel Scrap
+Basic Oxygen Furnace,Limestone,Rolling,Flux Material,52.03,34.33,Steel Scrap
+Hot Rolling,Limestone,Rolling,Coating Material,86.64,90.64,Refractory Waste
+Finishing & Grinding,Scrap Steel,Casting,Flux Material,63.79,81.85,Mill Scale
+Forging,Alloy Additives,Finishing,Coating Material,31.26,24.68,Mill Scale
+Finishing & Grinding,Iron Ore,Casting,Fuel/Reductant,91.83,60.14,Steel Scrap
+Forging,Zinc Coating Material,Refining,Fuel/Reductant,104.34,75.26,Refractory Waste
+Electric Arc Furnace,Limestone,Coating,Coating Material,119.81,92.87,Steel Scrap
+Forging,Iron Ore,Rolling,Non-Ferrous Metal,164.91,131.26,Steel Scrap
+Hot Rolling,Limestone,Casting,Flux Material,100.3,111.99,Steel Scrap
+Forging,Coke,Melting,Fuel/Reductant,185.52,143.48,Steel Scrap
+Galvanizing,Iron Ore,Finishing,Ferrous Metal,127.45,144.08,Pickling Sludge
+Electric Arc Furnace,Iron Ore,Refining,Ferrous Metal,101.85,68.09,Steel Scrap
+Finishing & Grinding,Zinc Coating Material,Melting,Coating Material,115.77,107.83,Pickling Sludge
+Cold Rolling,Coke,Refining,Coating Material,76.3,78.67,Mill Scale
+Basic Oxygen Furnace,Iron Ore,Casting,Ferrous Metal,47.78,30.18,Steel Scrap
+Forging,Limestone,Finishing,Non-Ferrous Metal,147.55,176.99,Steel Scrap
+Hot Rolling,Scrap Steel,Finishing,Flux Material,43.35,30.95,Waste Gas Sludge
+Basic Oxygen Furnace,Alloy Additives,Melting,Flux Material,92.31,93.24,Steel Scrap
+Basic Oxygen Furnace,Alloy Additives,Finishing,Flux Material,65.32,65.5,Blast Furnace Slag
+Finishing & Grinding,Scrap Steel,Rolling,Flux Material,155.14,152.34,Mill Scale
+Continuous Casting,Limestone,Refining,Coating Material,48.02,41.79,Blast Furnace Slag
+Finishing & Grinding,Limestone,Rolling,Coating Material,95.43,78.57,Steel Scrap
+Basic Oxygen Furnace,Coke,Rolling,Non-Ferrous Metal,64.65,39.84,Waste Gas Sludge
+Forging,Coke,Melting,Fuel/Reductant,65.64,71.4,Refractory Waste
+Hot Rolling,Coke,Casting,Flux Material,119.09,144.6,Mill Scale
+Cold Rolling,Alloy Additives,Melting,Coating Material,117.45,85.06,Steel Scrap
+Forging,Limestone,Coating,Non-Ferrous Metal,109.52,127.57,Mill Scale
+Finishing & Grinding,Limestone,Melting,Ferrous Metal,84.26,96.35,Steel Scrap
+Hot Rolling,Coke,Finishing,Coating Material,89.26,111.71,Mill Scale
+Galvanizing,Limestone,Finishing,Coating Material,77.46,87.39,Zinc Ash
+Cold Rolling,Coke,Casting,Non-Ferrous Metal,130.58,160.85,Pickling Sludge
+Basic Oxygen Furnace,Zinc Coating Material,Coating,Non-Ferrous Metal,140.66,172.57,Blast Furnace Slag
+Cold Rolling,Zinc Coating Material,Coating,Coating Material,85.75,52.1,Mill Scale
+Hot Rolling,Coke,Refining,Flux Material,97.11,97.25,EAF Dust
+Cold Rolling,Scrap Steel,Melting,Coating Material,80.44,73.52,Pickling Sludge
+Finishing & Grinding,Scrap Steel,Melting,Coating Material,53.9,60.73,Steel Scrap
+Galvanizing,Iron Ore,Melting,Flux Material,48.6,56.02,Waste Gas Sludge
+Basic Oxygen Furnace,Limestone,Rolling,Ferrous Metal,84.56,83.26,Steel Scrap
+Continuous Casting,Iron Ore,Coating,Flux Material,56.82,69.4,Mill Scale
+Forging,Alloy Additives,Coating,Coating Material,58.8,66.62,Steel Scrap
+Finishing & Grinding,Limestone,Casting,Coating Material,74.03,49.66,Pickling Sludge
+Electric Arc Furnace,Alloy Additives,Finishing,Ferrous Metal,94.05,110.54,Waste Gas Sludge
+Hot Rolling,Coke,Finishing,Ferrous Metal,68.15,44.77,Mill Scale
+Basic Oxygen Furnace,Iron Ore,Melting,Fuel/Reductant,43.07,54.4,Blast Furnace Slag
+Cold Rolling,Scrap Steel,Refining,Flux Material,44.0,49.6,Mill Scale
+Finishing & Grinding,Scrap Steel,Finishing,Non-Ferrous Metal,61.84,61.28,Pickling Sludge
+Hot Rolling,Limestone,Melting,Coating Material,77.6,95.79,Mill Scale
+Cold Rolling,Iron Ore,Melting,Ferrous Metal,84.32,78.25,Pickling Sludge
+Cold Rolling,Limestone,Melting,Fuel/Reductant,53.99,36.88,Mill Scale
+Cold Rolling,Alloy Additives,Coating,Fuel/Reductant,97.05,97.86,Pickling Sludge
+Forging,Zinc Coating Material,Casting,Coating Material,58.75,50.67,Steel Scrap
+Electric Arc Furnace,Zinc Coating Material,Casting,Coating Material,112.1,142.84,EAF Dust
+Finishing & Grinding,Alloy Additives,Finishing,Fuel/Reductant,71.46,91.39,Pickling Sludge
+Forging,Zinc Coating Material,Rolling,Ferrous Metal,93.26,92.11,Steel Scrap
+Galvanizing,Zinc Coating Material,Melting,Non-Ferrous Metal,85.45,82.56,Zinc Ash
+Cold Rolling,Zinc Coating Material,Rolling,Coating Material,148.06,153.88,Pickling Sludge
+Cold Rolling,Coke,Melting,Fuel/Reductant,124.06,152.69,Steel Scrap
+Electric Arc Furnace,Zinc Coating Material,Coating,Fuel/Reductant,189.62,138.74,EAF Dust
+Galvanizing,Alloy Additives,Rolling,Fuel/Reductant,59.28,50.23,Pickling Sludge
+Continuous Casting,Coke,Rolling,Fuel/Reductant,60.67,78.29,Mill Scale
+Hot Rolling,Zinc Coating Material,Refining,Flux Material,90.48,88.24,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Melting,Fuel/Reductant,123.65,88.27,Refractory Waste
+Continuous Casting,Limestone,Finishing,Flux Material,66.02,77.62,Steel Scrap
+Finishing & Grinding,Limestone,Refining,Fuel/Reductant,46.04,55.54,Mill Scale
+Continuous Casting,Scrap Steel,Casting,Fuel/Reductant,168.6,104.27,Mill Scale
+Cold Rolling,Scrap Steel,Casting,Flux Material,134.45,94.83,Steel Scrap
+Finishing & Grinding,Iron Ore,Rolling,Coating Material,69.32,60.07,Steel Scrap
+Forging,Limestone,Casting,Non-Ferrous Metal,80.98,64.09,Refractory Waste
+Forging,Iron Ore,Rolling,Ferrous Metal,137.3,165.49,Steel Scrap
+Forging,Limestone,Finishing,Non-Ferrous Metal,85.19,107.45,Zinc Ash
+Basic Oxygen Furnace,Limestone,Melting,Coating Material,86.69,67.02,EAF Dust
+Forging,Zinc Coating Material,Refining,Ferrous Metal,52.29,53.56,Steel Scrap
+Galvanizing,Alloy Additives,Finishing,Fuel/Reductant,80.02,85.64,Pickling Sludge
+Forging,Coke,Finishing,Fuel/Reductant,41.15,44.03,Blast Furnace Slag
+Hot Rolling,Zinc Coating Material,Finishing,Flux Material,139.27,158.85,Pickling Sludge
+Forging,Scrap Steel,Finishing,Ferrous Metal,134.45,133.46,Steel Scrap
+Electric Arc Furnace,Scrap Steel,Casting,Ferrous Metal,87.43,77.15,EAF Dust
+Continuous Casting,Iron Ore,Coating,Fuel/Reductant,110.19,82.54,Steel Scrap
+Continuous Casting,Iron Ore,Melting,Coating Material,143.83,87.76,Refractory Waste
+Hot Rolling,Limestone,Coating,Non-Ferrous Metal,128.67,116.6,Mill Scale
+Finishing & Grinding,Coke,Finishing,Ferrous Metal,36.4,30.71,Pickling Sludge
+Cold Rolling,Zinc Coating Material,Coating,Non-Ferrous Metal,150.72,156.06,Pickling Sludge
+Cold Rolling,Zinc Coating Material,Rolling,Flux Material,87.67,110.87,Mill Scale
+Forging,Limestone,Melting,Non-Ferrous Metal,37.53,48.26,Steel Scrap
+Cold Rolling,Zinc Coating Material,Casting,Ferrous Metal,83.03,68.93,Steel Scrap
+Cold Rolling,Scrap Steel,Coating,Ferrous Metal,46.41,32.03,Steel Scrap
+Cold Rolling,Iron Ore,Coating,Flux Material,111.22,78.56,Pickling Sludge
+Cold Rolling,Zinc Coating Material,Finishing,Non-Ferrous Metal,98.77,83.16,Mill Scale
+Electric Arc Furnace,Coke,Rolling,Ferrous Metal,55.66,51.86,Steel Scrap
+Basic Oxygen Furnace,Coke,Casting,Fuel/Reductant,54.44,34.22,Blast Furnace Slag
+Galvanizing,Alloy Additives,Coating,Flux Material,104.3,82.92,Pickling Sludge
+Finishing & Grinding,Coke,Finishing,Flux Material,81.24,69.46,Pickling Sludge
+Basic Oxygen Furnace,Iron Ore,Refining,Fuel/Reductant,53.13,57.55,Refractory Waste
+Galvanizing,Scrap Steel,Rolling,Ferrous Metal,62.38,77.64,Zinc Ash
+Galvanizing,Zinc Coating Material,Finishing,Flux Material,92.87,73.72,Pickling Sludge
+Galvanizing,Scrap Steel,Finishing,Non-Ferrous Metal,108.87,81.28,Zinc Ash
+Galvanizing,Alloy Additives,Refining,Ferrous Metal,115.02,108.02,Pickling Sludge
+Cold Rolling,Zinc Coating Material,Rolling,Ferrous Metal,41.56,46.68,Pickling Sludge
+Cold Rolling,Limestone,Melting,Ferrous Metal,143.74,111.64,Pickling Sludge
+Forging,Limestone,Casting,Coating Material,107.29,104.34,Steel Scrap
+Continuous Casting,Limestone,Finishing,Ferrous Metal,96.61,88.22,Refractory Waste
+Cold Rolling,Scrap Steel,Finishing,Flux Material,39.57,34.19,Pickling Sludge
+Hot Rolling,Coke,Melting,Flux Material,92.47,76.33,Mill Scale
+Galvanizing,Scrap Steel,Rolling,Flux Material,63.94,78.22,Zinc Ash
+Finishing & Grinding,Scrap Steel,Finishing,Non-Ferrous Metal,51.93,55.84,Mill Scale
+Electric Arc Furnace,Scrap Steel,Casting,Non-Ferrous Metal,84.72,82.68,Waste Gas Sludge
+Hot Rolling,Scrap Steel,Coating,Non-Ferrous Metal,149.55,167.77,Steel Scrap
+Hot Rolling,Coke,Refining,Coating Material,53.08,45.34,Mill Scale
+Continuous Casting,Iron Ore,Coating,Flux Material,78.38,78.34,Refractory Waste
+Electric Arc Furnace,Iron Ore,Melting,Flux Material,44.2,31.25,Refractory Waste
+Galvanizing,Scrap Steel,Refining,Flux Material,106.73,76.04,Zinc Ash
+Basic Oxygen Furnace,Zinc Coating Material,Melting,Fuel/Reductant,65.55,80.48,Blast Furnace Slag
+Basic Oxygen Furnace,Limestone,Coating,Non-Ferrous Metal,57.73,55.83,Pickling Sludge
+Finishing & Grinding,Zinc Coating Material,Melting,Ferrous Metal,95.03,83.48,Pickling Sludge
+Forging,Zinc Coating Material,Melting,Fuel/Reductant,83.22,100.35,Mill Scale
+Basic Oxygen Furnace,Coke,Coating,Non-Ferrous Metal,66.02,70.51,Blast Furnace Slag
+Galvanizing,Limestone,Coating,Coating Material,114.93,113.75,Zinc Ash
+Forging,Scrap Steel,Finishing,Ferrous Metal,38.24,27.95,Refractory Waste
+Hot Rolling,Limestone,Rolling,Non-Ferrous Metal,105.92,95.1,Mill Scale
+Forging,Limestone,Finishing,Ferrous Metal,39.12,40.19,Steel Scrap
+Cold Rolling,Coke,Refining,Fuel/Reductant,86.73,87.33,Pickling Sludge
+Basic Oxygen Furnace,Limestone,Melting,Flux Material,82.66,52.59,Waste Gas Sludge
+Galvanizing,Zinc Coating Material,Melting,Fuel/Reductant,48.68,33.79,Zinc Ash
+Forging,Zinc Coating Material,Melting,Flux Material,126.23,135.96,Mill Scale
+Hot Rolling,Iron Ore,Finishing,Fuel/Reductant,66.02,67.14,Mill Scale
+Galvanizing,Scrap Steel,Casting,Coating Material,23.77,29.73,Zinc Ash
+Electric Arc Furnace,Alloy Additives,Finishing,Flux Material,59.6,76.02,EAF Dust
+Cold Rolling,Coke,Casting,Ferrous Metal,98.95,71.92,Pickling Sludge
+Forging,Scrap Steel,Refining,Ferrous Metal,65.21,72.96,Steel Scrap
+Forging,Limestone,Rolling,Flux Material,133.89,154.87,Steel Scrap
+Galvanizing,Alloy Additives,Coating,Ferrous Metal,94.41,67.46,Waste Gas Sludge
+Electric Arc Furnace,Zinc Coating Material,Melting,Flux Material,99.88,96.5,EAF Dust
+Finishing & Grinding,Limestone,Casting,Non-Ferrous Metal,70.84,86.0,Mill Scale
+Forging,Scrap Steel,Casting,Coating Material,135.51,117.06,Steel Scrap
+Electric Arc Furnace,Iron Ore,Rolling,Coating Material,71.25,57.78,EAF Dust
+Hot Rolling,Iron Ore,Casting,Flux Material,85.66,105.34,Refractory Waste
+Continuous Casting,Iron Ore,Rolling,Coating Material,160.01,156.89,Refractory Waste
+Galvanizing,Scrap Steel,Rolling,Ferrous Metal,93.69,117.85,Zinc Ash
+Basic Oxygen Furnace,Coke,Coating,Fuel/Reductant,115.6,96.46,Steel Scrap
+Forging,Coke,Melting,Fuel/Reductant,97.67,95.07,Steel Scrap
+Finishing & Grinding,Zinc Coating Material,Casting,Ferrous Metal,71.02,81.82,Steel Scrap
+Forging,Alloy Additives,Rolling,Coating Material,69.63,78.04,Steel Scrap
+Galvanizing,Iron Ore,Casting,Non-Ferrous Metal,58.12,58.06,Zinc Ash
+Hot Rolling,Coke,Casting,Non-Ferrous Metal,103.28,121.34,Mill Scale
+Hot Rolling,Iron Ore,Coating,Non-Ferrous Metal,97.48,116.25,Steel Scrap
+Continuous Casting,Zinc Coating Material,Rolling,Fuel/Reductant,75.72,53.38,Refractory Waste
+Finishing & Grinding,Zinc Coating Material,Coating,Coating Material,54.62,60.39,Steel Scrap
+Galvanizing,Iron Ore,Rolling,Ferrous Metal,119.99,117.58,Zinc Ash
+Cold Rolling,Alloy Additives,Melting,Flux Material,143.18,120.56,Mill Scale
+Finishing & Grinding,Scrap Steel,Melting,Flux Material,35.99,45.46,Pickling Sludge
+Basic Oxygen Furnace,Alloy Additives,Coating,Coating Material,150.39,151.95,Blast Furnace Slag
+Electric Arc Furnace,Limestone,Coating,Non-Ferrous Metal,205.65,248.94,EAF Dust
+Continuous Casting,Scrap Steel,Rolling,Ferrous Metal,89.7,89.3,Refractory Waste
+Basic Oxygen Furnace,Alloy Additives,Finishing,Non-Ferrous Metal,103.36,73.05,Blast Furnace Slag
+Finishing & Grinding,Alloy Additives,Coating,Coating Material,93.25,95.55,Steel Scrap
+Cold Rolling,Limestone,Rolling,Flux Material,155.52,194.07,Zinc Ash
+Basic Oxygen Furnace,Coke,Melting,Coating Material,68.02,46.2,Steel Scrap
+Continuous Casting,Coke,Melting,Coating Material,87.01,76.51,Steel Scrap
+Cold Rolling,Zinc Coating Material,Finishing,Fuel/Reductant,130.36,108.8,Pickling Sludge
+Basic Oxygen Furnace,Coke,Coating,Fuel/Reductant,53.74,66.85,Steel Scrap
+Continuous Casting,Zinc Coating Material,Finishing,Coating Material,38.54,32.48,Mill Scale
+Galvanizing,Scrap Steel,Casting,Flux Material,73.57,67.44,Zinc Ash
+Finishing & Grinding,Iron Ore,Refining,Non-Ferrous Metal,159.61,115.47,Steel Scrap
+Basic Oxygen Furnace,Alloy Additives,Coating,Coating Material,83.08,83.61,Blast Furnace Slag
+Continuous Casting,Alloy Additives,Rolling,Non-Ferrous Metal,53.61,37.74,Mill Scale
+Continuous Casting,Zinc Coating Material,Rolling,Ferrous Metal,104.82,69.15,Steel Scrap
+Hot Rolling,Limestone,Coating,Flux Material,85.02,55.0,Steel Scrap
+Hot Rolling,Alloy Additives,Refining,Flux Material,90.78,67.81,Pickling Sludge
+Hot Rolling,Coke,Finishing,Coating Material,80.96,50.65,Pickling Sludge
+Cold Rolling,Limestone,Coating,Coating Material,90.66,90.24,Pickling Sludge
+Hot Rolling,Alloy Additives,Refining,Flux Material,144.85,127.55,Mill Scale
+Galvanizing,Alloy Additives,Melting,Coating Material,21.01,14.89,Waste Gas Sludge
+Continuous Casting,Coke,Rolling,Coating Material,95.78,82.5,Mill Scale
+Hot Rolling,Limestone,Casting,Ferrous Metal,76.22,80.09,Mill Scale
+Galvanizing,Iron Ore,Rolling,Ferrous Metal,72.72,80.08,Blast Furnace Slag
+Galvanizing,Iron Ore,Refining,Ferrous Metal,82.54,51.09,Zinc Ash
+Continuous Casting,Zinc Coating Material,Rolling,Fuel/Reductant,62.25,38.21,Steel Scrap
+Electric Arc Furnace,Coke,Refining,Non-Ferrous Metal,61.56,71.41,Steel Scrap
+Forging,Scrap Steel,Casting,Non-Ferrous Metal,104.15,69.74,Refractory Waste
+Finishing & Grinding,Scrap Steel,Melting,Fuel/Reductant,52.67,58.23,Mill Scale
+Continuous Casting,Coke,Rolling,Ferrous Metal,93.66,100.0,Steel Scrap
+Forging,Iron Ore,Finishing,Ferrous Metal,94.35,75.97,Steel Scrap
+Electric Arc Furnace,Limestone,Rolling,Ferrous Metal,38.23,44.81,Steel Scrap
+Cold Rolling,Zinc Coating Material,Melting,Flux Material,164.87,128.86,Steel Scrap
+Basic Oxygen Furnace,Alloy Additives,Finishing,Flux Material,141.17,146.38,Blast Furnace Slag
+Galvanizing,Zinc Coating Material,Refining,Fuel/Reductant,36.51,36.01,Waste Gas Sludge
+Continuous Casting,Iron Ore,Melting,Fuel/Reductant,36.5,41.41,Mill Scale
+Hot Rolling,Scrap Steel,Casting,Flux Material,66.99,80.92,Mill Scale
+Finishing & Grinding,Coke,Melting,Non-Ferrous Metal,124.64,111.88,Steel Scrap
+Electric Arc Furnace,Zinc Coating Material,Casting,Flux Material,83.9,66.12,EAF Dust
+Forging,Zinc Coating Material,Rolling,Fuel/Reductant,187.52,130.8,Steel Scrap
+Finishing & Grinding,Coke,Coating,Flux Material,111.33,143.51,Pickling Sludge
+Basic Oxygen Furnace,Limestone,Coating,Non-Ferrous Metal,46.79,28.68,Steel Scrap
+Basic Oxygen Furnace,Coke,Finishing,Flux Material,88.65,60.5,Blast Furnace Slag
+Forging,Iron Ore,Finishing,Fuel/Reductant,39.08,41.27,Zinc Ash
+Forging,Coke,Finishing,Ferrous Metal,106.27,79.12,Steel Scrap
+Galvanizing,Alloy Additives,Finishing,Non-Ferrous Metal,156.99,113.47,Waste Gas Sludge
+Finishing & Grinding,Scrap Steel,Refining,Ferrous Metal,154.31,137.82,Steel Scrap
+Galvanizing,Limestone,Coating,Ferrous Metal,99.45,71.25,Pickling Sludge
+Galvanizing,Coke,Rolling,Ferrous Metal,25.36,16.69,Pickling Sludge
+Forging,Coke,Finishing,Flux Material,43.38,34.79,Steel Scrap
+Continuous Casting,Limestone,Coating,Fuel/Reductant,107.48,118.59,Blast Furnace Slag
+Cold Rolling,Zinc Coating Material,Rolling,Non-Ferrous Metal,107.19,114.11,Steel Scrap
+Finishing & Grinding,Iron Ore,Melting,Non-Ferrous Metal,36.5,40.62,Pickling Sludge
+Finishing & Grinding,Scrap Steel,Finishing,Flux Material,108.59,102.88,Mill Scale
+Cold Rolling,Coke,Refining,Non-Ferrous Metal,41.48,34.59,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Refining,Non-Ferrous Metal,73.03,81.04,Zinc Ash
+Finishing & Grinding,Alloy Additives,Refining,Coating Material,93.96,101.65,Pickling Sludge
+Forging,Zinc Coating Material,Finishing,Fuel/Reductant,40.62,47.1,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Casting,Ferrous Metal,71.49,56.51,Blast Furnace Slag
+Galvanizing,Iron Ore,Coating,Coating Material,36.31,45.1,Zinc Ash
+Forging,Alloy Additives,Melting,Ferrous Metal,132.75,167.95,Steel Scrap
+Continuous Casting,Coke,Finishing,Non-Ferrous Metal,46.06,55.78,Mill Scale
+Cold Rolling,Scrap Steel,Casting,Non-Ferrous Metal,77.17,89.87,Mill Scale
+Continuous Casting,Zinc Coating Material,Casting,Coating Material,139.7,108.24,Steel Scrap
+Continuous Casting,Alloy Additives,Coating,Non-Ferrous Metal,128.85,97.26,Mill Scale
+Galvanizing,Alloy Additives,Melting,Ferrous Metal,117.7,128.08,Zinc Ash
+Cold Rolling,Zinc Coating Material,Refining,Coating Material,89.87,112.07,Pickling Sludge
+Finishing & Grinding,Zinc Coating Material,Coating,Flux Material,132.03,108.71,Mill Scale
+Hot Rolling,Zinc Coating Material,Rolling,Flux Material,82.16,51.42,Mill Scale
+Continuous Casting,Limestone,Rolling,Fuel/Reductant,44.05,28.8,Steel Scrap
+Continuous Casting,Coke,Finishing,Flux Material,104.17,87.29,Refractory Waste
+Forging,Iron Ore,Casting,Coating Material,76.02,74.32,Steel Scrap
+Finishing & Grinding,Scrap Steel,Casting,Fuel/Reductant,89.91,74.01,Steel Scrap
+Cold Rolling,Limestone,Coating,Fuel/Reductant,119.9,91.49,Pickling Sludge
+Continuous Casting,Coke,Coating,Flux Material,95.51,115.48,Mill Scale
+Finishing & Grinding,Limestone,Casting,Fuel/Reductant,113.1,146.87,Steel Scrap
+Finishing & Grinding,Iron Ore,Refining,Coating Material,86.69,98.57,Waste Gas Sludge
+Finishing & Grinding,Coke,Coating,Ferrous Metal,68.06,82.46,Pickling Sludge
+Cold Rolling,Zinc Coating Material,Casting,Fuel/Reductant,70.06,78.21,Pickling Sludge
+Hot Rolling,Coke,Coating,Flux Material,148.17,100.36,Mill Scale
+Cold Rolling,Alloy Additives,Finishing,Coating Material,45.46,34.71,Pickling Sludge
+Forging,Coke,Casting,Coating Material,56.24,34.45,Refractory Waste
+Hot Rolling,Alloy Additives,Coating,Fuel/Reductant,83.77,90.12,EAF Dust
+Galvanizing,Limestone,Coating,Fuel/Reductant,93.64,118.45,Zinc Ash
+Continuous Casting,Coke,Coating,Flux Material,125.21,116.09,Mill Scale
+Cold Rolling,Alloy Additives,Casting,Coating Material,77.59,55.63,Steel Scrap
+Cold Rolling,Limestone,Melting,Flux Material,91.08,87.33,Pickling Sludge
+Forging,Alloy Additives,Casting,Ferrous Metal,103.82,75.12,Steel Scrap
+Hot Rolling,Zinc Coating Material,Melting,Coating Material,64.63,54.62,Mill Scale
+Forging,Iron Ore,Finishing,Non-Ferrous Metal,66.67,85.23,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Melting,Fuel/Reductant,146.48,103.67,Blast Furnace Slag
+Hot Rolling,Limestone,Coating,Coating Material,66.21,50.13,Pickling Sludge
+Electric Arc Furnace,Zinc Coating Material,Refining,Coating Material,92.45,93.01,EAF Dust
+Finishing & Grinding,Alloy Additives,Rolling,Flux Material,41.55,50.45,Pickling Sludge
+Galvanizing,Alloy Additives,Casting,Flux Material,64.94,82.41,Pickling Sludge
+Hot Rolling,Coke,Coating,Flux Material,71.89,83.87,Mill Scale
+Cold Rolling,Coke,Finishing,Non-Ferrous Metal,110.75,98.12,Mill Scale
+Finishing & Grinding,Coke,Coating,Flux Material,178.88,139.85,Steel Scrap
+Forging,Limestone,Casting,Non-Ferrous Metal,83.82,63.21,Steel Scrap
+Basic Oxygen Furnace,Coke,Rolling,Flux Material,166.53,108.79,Waste Gas Sludge
+Cold Rolling,Alloy Additives,Finishing,Flux Material,84.41,85.65,Pickling Sludge
+Hot Rolling,Iron Ore,Melting,Coating Material,134.89,113.78,Mill Scale
+Basic Oxygen Furnace,Limestone,Casting,Fuel/Reductant,111.75,135.78,Blast Furnace Slag
+Electric Arc Furnace,Alloy Additives,Refining,Fuel/Reductant,169.46,179.78,Steel Scrap
+Finishing & Grinding,Limestone,Finishing,Non-Ferrous Metal,117.79,126.75,Mill Scale
+Cold Rolling,Zinc Coating Material,Melting,Ferrous Metal,104.43,117.68,Mill Scale
+Electric Arc Furnace,Iron Ore,Rolling,Non-Ferrous Metal,79.17,88.71,Refractory Waste
+Finishing & Grinding,Iron Ore,Finishing,Flux Material,90.35,105.94,Blast Furnace Slag
+Galvanizing,Coke,Rolling,Coating Material,86.03,68.9,Zinc Ash
+Continuous Casting,Alloy Additives,Rolling,Flux Material,139.31,179.27,Mill Scale
+Continuous Casting,Zinc Coating Material,Rolling,Flux Material,45.1,44.11,Zinc Ash
+Cold Rolling,Alloy Additives,Finishing,Non-Ferrous Metal,114.53,77.29,Pickling Sludge
+Forging,Limestone,Coating,Flux Material,94.22,79.08,Steel Scrap
+Continuous Casting,Iron Ore,Rolling,Flux Material,154.68,193.72,Refractory Waste
+Hot Rolling,Limestone,Casting,Flux Material,70.03,76.73,Mill Scale
+Electric Arc Furnace,Coke,Finishing,Flux Material,92.12,92.81,Steel Scrap
+Basic Oxygen Furnace,Limestone,Casting,Non-Ferrous Metal,135.21,163.61,Blast Furnace Slag
+Cold Rolling,Zinc Coating Material,Melting,Flux Material,41.39,52.91,Pickling Sludge
+Continuous Casting,Limestone,Refining,Fuel/Reductant,66.56,41.08,Refractory Waste
+Forging,Zinc Coating Material,Coating,Fuel/Reductant,99.19,81.98,Mill Scale
+Hot Rolling,Iron Ore,Finishing,Coating Material,154.05,140.51,Waste Gas Sludge
+Finishing & Grinding,Alloy Additives,Finishing,Flux Material,82.67,107.3,Steel Scrap
+Electric Arc Furnace,Alloy Additives,Coating,Non-Ferrous Metal,43.07,49.8,Steel Scrap
+Galvanizing,Alloy Additives,Rolling,Ferrous Metal,28.18,21.26,Pickling Sludge
+Finishing & Grinding,Scrap Steel,Coating,Fuel/Reductant,94.01,74.39,Pickling Sludge
+Forging,Limestone,Coating,Ferrous Metal,66.41,46.87,Steel Scrap
+Cold Rolling,Zinc Coating Material,Melting,Fuel/Reductant,110.39,115.57,Mill Scale
+Basic Oxygen Furnace,Scrap Steel,Rolling,Flux Material,81.51,64.55,Waste Gas Sludge
+Electric Arc Furnace,Scrap Steel,Rolling,Ferrous Metal,83.38,63.45,EAF Dust
+Continuous Casting,Zinc Coating Material,Finishing,Fuel/Reductant,93.99,58.44,Mill Scale
+Finishing & Grinding,Limestone,Rolling,Ferrous Metal,47.69,44.41,Mill Scale
+Continuous Casting,Zinc Coating Material,Casting,Ferrous Metal,147.68,107.79,Mill Scale
+Continuous Casting,Zinc Coating Material,Refining,Ferrous Metal,97.83,116.55,Refractory Waste
+Finishing & Grinding,Zinc Coating Material,Finishing,Coating Material,102.37,106.3,Steel Scrap
+Hot Rolling,Iron Ore,Rolling,Flux Material,92.21,86.41,Mill Scale
+Basic Oxygen Furnace,Scrap Steel,Finishing,Fuel/Reductant,112.91,77.64,Steel Scrap
+Electric Arc Furnace,Iron Ore,Refining,Ferrous Metal,63.06,59.54,Steel Scrap
+Hot Rolling,Zinc Coating Material,Melting,Fuel/Reductant,166.89,168.12,Mill Scale
+Electric Arc Furnace,Iron Ore,Coating,Flux Material,118.69,109.04,EAF Dust
+Galvanizing,Alloy Additives,Coating,Flux Material,63.76,41.49,Zinc Ash
+Hot Rolling,Limestone,Casting,Flux Material,69.85,56.17,Mill Scale
+Continuous Casting,Zinc Coating Material,Finishing,Fuel/Reductant,24.5,29.45,Zinc Ash
+Forging,Alloy Additives,Casting,Fuel/Reductant,54.94,70.91,Steel Scrap
+Continuous Casting,Alloy Additives,Rolling,Non-Ferrous Metal,83.31,79.08,Refractory Waste
+Continuous Casting,Limestone,Melting,Coating Material,150.78,91.5,Steel Scrap
+Continuous Casting,Limestone,Refining,Flux Material,120.33,115.81,Mill Scale
+Finishing & Grinding,Coke,Melting,Coating Material,76.48,50.09,Mill Scale
+Cold Rolling,Limestone,Finishing,Coating Material,62.9,43.58,Mill Scale
+Hot Rolling,Alloy Additives,Finishing,Coating Material,166.7,123.38,Mill Scale
+Galvanizing,Coke,Melting,Non-Ferrous Metal,110.0,74.05,Waste Gas Sludge
+Basic Oxygen Furnace,Zinc Coating Material,Rolling,Non-Ferrous Metal,145.4,182.53,Steel Scrap
+Forging,Iron Ore,Coating,Flux Material,122.48,119.9,Mill Scale
+Galvanizing,Coke,Casting,Flux Material,112.45,130.58,Zinc Ash
+Basic Oxygen Furnace,Zinc Coating Material,Rolling,Flux Material,99.84,116.85,Refractory Waste
+Forging,Scrap Steel,Coating,Non-Ferrous Metal,141.25,148.38,Refractory Waste
+Cold Rolling,Iron Ore,Refining,Flux Material,92.25,102.59,Pickling Sludge
+Hot Rolling,Limestone,Coating,Flux Material,63.8,48.07,Mill Scale
+Finishing & Grinding,Limestone,Refining,Flux Material,68.87,57.56,Steel Scrap
+Finishing & Grinding,Iron Ore,Coating,Ferrous Metal,105.07,99.68,Mill Scale
+Basic Oxygen Furnace,Zinc Coating Material,Melting,Ferrous Metal,66.12,72.96,Blast Furnace Slag
+Hot Rolling,Scrap Steel,Finishing,Non-Ferrous Metal,86.36,92.94,Mill Scale
+Galvanizing,Scrap Steel,Coating,Coating Material,89.36,55.53,Waste Gas Sludge
+Electric Arc Furnace,Scrap Steel,Coating,Coating Material,76.14,84.44,Pickling Sludge
+Cold Rolling,Scrap Steel,Coating,Fuel/Reductant,38.26,34.35,Steel Scrap
+Basic Oxygen Furnace,Scrap Steel,Coating,Non-Ferrous Metal,48.31,30.34,Blast Furnace Slag
+Cold Rolling,Coke,Casting,Fuel/Reductant,42.7,42.92,Pickling Sludge
+Finishing & Grinding,Alloy Additives,Refining,Non-Ferrous Metal,160.42,194.33,Steel Scrap
+Basic Oxygen Furnace,Zinc Coating Material,Finishing,Ferrous Metal,69.64,62.34,Blast Furnace Slag
+Finishing & Grinding,Scrap Steel,Finishing,Ferrous Metal,110.48,82.58,Mill Scale
+Forging,Zinc Coating Material,Casting,Coating Material,40.22,41.91,Refractory Waste
+Electric Arc Furnace,Iron Ore,Refining,Coating Material,64.56,79.82,Blast Furnace Slag
+Cold Rolling,Alloy Additives,Coating,Ferrous Metal,99.93,76.57,Pickling Sludge
+Electric Arc Furnace,Iron Ore,Coating,Non-Ferrous Metal,84.09,101.71,Refractory Waste
+Forging,Scrap Steel,Casting,Non-Ferrous Metal,134.13,128.81,Steel Scrap
+Forging,Zinc Coating Material,Coating,Flux Material,132.97,116.18,Steel Scrap
+Basic Oxygen Furnace,Alloy Additives,Finishing,Flux Material,36.78,28.71,Blast Furnace Slag
+Basic Oxygen Furnace,Coke,Coating,Coating Material,46.65,32.26,Refractory Waste
+Galvanizing,Scrap Steel,Finishing,Flux Material,133.55,122.55,Pickling Sludge
+Hot Rolling,Coke,Coating,Fuel/Reductant,87.77,103.59,Mill Scale
+Forging,Scrap Steel,Coating,Flux Material,46.93,36.33,Mill Scale
+Basic Oxygen Furnace,Coke,Refining,Fuel/Reductant,150.64,108.06,Waste Gas Sludge
+Forging,Coke,Casting,Ferrous Metal,119.12,132.88,Steel Scrap
+Finishing & Grinding,Coke,Casting,Ferrous Metal,74.02,86.16,Steel Scrap
+Finishing & Grinding,Alloy Additives,Coating,Coating Material,182.81,220.8,Zinc Ash
+Basic Oxygen Furnace,Alloy Additives,Coating,Flux Material,76.08,48.69,Refractory Waste
+Forging,Scrap Steel,Finishing,Coating Material,78.18,98.16,Refractory Waste
+Continuous Casting,Zinc Coating Material,Rolling,Non-Ferrous Metal,113.94,108.82,Mill Scale
+Finishing & Grinding,Iron Ore,Melting,Non-Ferrous Metal,82.15,57.82,Steel Scrap
+Finishing & Grinding,Scrap Steel,Casting,Flux Material,122.1,117.33,Pickling Sludge
+Finishing & Grinding,Alloy Additives,Coating,Non-Ferrous Metal,97.98,104.53,Steel Scrap
+Electric Arc Furnace,Limestone,Casting,Coating Material,131.03,140.39,EAF Dust
+Finishing & Grinding,Coke,Rolling,Coating Material,53.01,35.29,Steel Scrap
+Hot Rolling,Limestone,Casting,Non-Ferrous Metal,64.62,46.79,Pickling Sludge
+Cold Rolling,Zinc Coating Material,Finishing,Fuel/Reductant,173.3,205.65,Steel Scrap
+Galvanizing,Limestone,Casting,Fuel/Reductant,90.48,93.42,Zinc Ash
+Hot Rolling,Alloy Additives,Coating,Non-Ferrous Metal,98.71,98.65,Steel Scrap
+Finishing & Grinding,Zinc Coating Material,Refining,Fuel/Reductant,130.9,138.91,Mill Scale
+Basic Oxygen Furnace,Limestone,Finishing,Fuel/Reductant,134.82,142.35,Blast Furnace Slag
+Cold Rolling,Zinc Coating Material,Refining,Fuel/Reductant,96.27,61.01,Steel Scrap
+Finishing & Grinding,Alloy Additives,Rolling,Coating Material,60.81,53.81,Mill Scale
+Forging,Alloy Additives,Melting,Flux Material,97.0,108.34,Mill Scale
+Basic Oxygen Furnace,Scrap Steel,Refining,Flux Material,100.97,89.15,Blast Furnace Slag
+Forging,Coke,Rolling,Ferrous Metal,134.94,152.97,Steel Scrap
+Hot Rolling,Limestone,Casting,Fuel/Reductant,48.27,43.68,Mill Scale
+Continuous Casting,Coke,Melting,Fuel/Reductant,79.75,48.17,Mill Scale
+Basic Oxygen Furnace,Scrap Steel,Finishing,Non-Ferrous Metal,89.56,76.71,Blast Furnace Slag
+Hot Rolling,Alloy Additives,Rolling,Flux Material,155.59,142.22,Mill Scale
+Finishing & Grinding,Coke,Melting,Flux Material,58.2,50.13,Steel Scrap
+Electric Arc Furnace,Coke,Finishing,Ferrous Metal,158.15,146.2,Steel Scrap
+Hot Rolling,Alloy Additives,Refining,Coating Material,126.4,152.23,Mill Scale
+Finishing & Grinding,Iron Ore,Rolling,Non-Ferrous Metal,23.34,19.58,Steel Scrap
+Forging,Scrap Steel,Finishing,Coating Material,195.85,172.19,Refractory Waste
+Forging,Limestone,Melting,Non-Ferrous Metal,126.99,144.19,Steel Scrap
+Basic Oxygen Furnace,Alloy Additives,Melting,Coating Material,205.27,226.35,Blast Furnace Slag
+Finishing & Grinding,Scrap Steel,Casting,Fuel/Reductant,115.08,143.73,Mill Scale
+Forging,Alloy Additives,Rolling,Coating Material,95.44,119.69,Steel Scrap
+Finishing & Grinding,Alloy Additives,Refining,Flux Material,60.82,47.42,Pickling Sludge
+Continuous Casting,Coke,Melting,Non-Ferrous Metal,75.37,61.43,Mill Scale
+Continuous Casting,Alloy Additives,Rolling,Fuel/Reductant,91.59,94.08,Steel Scrap
+Forging,Iron Ore,Rolling,Coating Material,145.02,114.69,Mill Scale
+Continuous Casting,Alloy Additives,Refining,Fuel/Reductant,54.52,58.71,Mill Scale
+Finishing & Grinding,Alloy Additives,Melting,Flux Material,77.23,74.73,Pickling Sludge
+Hot Rolling,Limestone,Coating,Coating Material,65.28,50.89,Steel Scrap
+Finishing & Grinding,Limestone,Finishing,Fuel/Reductant,96.94,90.98,Steel Scrap
+Electric Arc Furnace,Iron Ore,Casting,Ferrous Metal,93.25,97.28,EAF Dust
+Continuous Casting,Limestone,Coating,Fuel/Reductant,143.61,146.64,Steel Scrap
+Basic Oxygen Furnace,Coke,Coating,Flux Material,86.76,64.93,Steel Scrap
+Finishing & Grinding,Alloy Additives,Refining,Fuel/Reductant,86.46,76.75,Steel Scrap
+Hot Rolling,Coke,Melting,Fuel/Reductant,47.87,37.93,Mill Scale
+Basic Oxygen Furnace,Limestone,Melting,Non-Ferrous Metal,62.58,56.11,Blast Furnace Slag
+Galvanizing,Zinc Coating Material,Coating,Fuel/Reductant,63.15,57.86,Zinc Ash
+Hot Rolling,Iron Ore,Melting,Coating Material,95.36,68.43,Mill Scale
+Continuous Casting,Coke,Finishing,Flux Material,109.7,73.17,Mill Scale
+Basic Oxygen Furnace,Iron Ore,Rolling,Ferrous Metal,100.65,105.62,Refractory Waste
+Continuous Casting,Zinc Coating Material,Refining,Non-Ferrous Metal,124.27,108.57,Mill Scale
+Hot Rolling,Zinc Coating Material,Rolling,Fuel/Reductant,190.88,180.9,Mill Scale
+Forging,Limestone,Rolling,Ferrous Metal,59.41,65.49,Mill Scale
+Basic Oxygen Furnace,Limestone,Coating,Flux Material,157.99,204.42,Steel Scrap
+Finishing & Grinding,Limestone,Casting,Coating Material,106.98,70.14,Steel Scrap
+Basic Oxygen Furnace,Zinc Coating Material,Rolling,Flux Material,157.41,192.97,Refractory Waste
+Forging,Iron Ore,Rolling,Non-Ferrous Metal,65.88,55.9,Steel Scrap
+Cold Rolling,Coke,Coating,Coating Material,53.67,51.7,Pickling Sludge
+Galvanizing,Zinc Coating Material,Melting,Ferrous Metal,93.62,98.83,Zinc Ash
+Finishing & Grinding,Scrap Steel,Melting,Non-Ferrous Metal,40.67,33.64,Refractory Waste
+Hot Rolling,Zinc Coating Material,Refining,Flux Material,136.8,145.46,Mill Scale
+Cold Rolling,Scrap Steel,Finishing,Flux Material,48.71,54.14,Pickling Sludge
+Continuous Casting,Scrap Steel,Rolling,Flux Material,62.23,79.05,Refractory Waste
+Forging,Zinc Coating Material,Melting,Ferrous Metal,83.02,89.91,Steel Scrap
+Continuous Casting,Alloy Additives,Refining,Coating Material,91.19,83.46,Zinc Ash
+Basic Oxygen Furnace,Limestone,Finishing,Non-Ferrous Metal,43.85,36.98,Blast Furnace Slag
+Basic Oxygen Furnace,Zinc Coating Material,Melting,Ferrous Metal,130.23,99.53,Blast Furnace Slag
+Continuous Casting,Limestone,Refining,Non-Ferrous Metal,108.66,76.79,Mill Scale
+Continuous Casting,Limestone,Casting,Non-Ferrous Metal,136.09,141.06,Steel Scrap
+Forging,Alloy Additives,Finishing,Fuel/Reductant,90.16,101.76,Refractory Waste
+Basic Oxygen Furnace,Iron Ore,Melting,Coating Material,89.86,98.5,Waste Gas Sludge
+Forging,Coke,Refining,Non-Ferrous Metal,79.67,64.71,Steel Scrap
+Cold Rolling,Zinc Coating Material,Melting,Flux Material,59.91,75.24,Pickling Sludge
+Hot Rolling,Zinc Coating Material,Rolling,Flux Material,45.78,37.26,Steel Scrap
+Hot Rolling,Limestone,Rolling,Ferrous Metal,51.38,49.37,Mill Scale
+Basic Oxygen Furnace,Alloy Additives,Melting,Flux Material,28.97,27.46,Refractory Waste
+Forging,Coke,Coating,Non-Ferrous Metal,87.96,106.83,Mill Scale
+Basic Oxygen Furnace,Scrap Steel,Coating,Ferrous Metal,81.52,94.9,Blast Furnace Slag
+Electric Arc Furnace,Limestone,Coating,Flux Material,63.31,55.84,Steel Scrap
+Forging,Limestone,Finishing,Fuel/Reductant,125.57,136.43,Steel Scrap
+Continuous Casting,Coke,Melting,Flux Material,86.01,101.13,Mill Scale
+Continuous Casting,Alloy Additives,Casting,Fuel/Reductant,84.67,101.89,Steel Scrap
+Basic Oxygen Furnace,Coke,Finishing,Fuel/Reductant,84.11,95.5,Waste Gas Sludge
+Electric Arc Furnace,Iron Ore,Melting,Fuel/Reductant,117.67,112.0,EAF Dust
+Electric Arc Furnace,Coke,Finishing,Non-Ferrous Metal,52.36,33.91,EAF Dust
+Electric Arc Furnace,Iron Ore,Rolling,Flux Material,74.56,51.79,Steel Scrap
+Cold Rolling,Iron Ore,Casting,Non-Ferrous Metal,87.04,78.58,Mill Scale
+Basic Oxygen Furnace,Scrap Steel,Casting,Fuel/Reductant,105.35,100.54,Blast Furnace Slag
+Basic Oxygen Furnace,Limestone,Rolling,Coating Material,55.68,41.83,Blast Furnace Slag
+Continuous Casting,Coke,Refining,Flux Material,79.96,84.37,Refractory Waste
+Basic Oxygen Furnace,Iron Ore,Finishing,Coating Material,77.6,100.6,Blast Furnace Slag
+Electric Arc Furnace,Iron Ore,Melting,Fuel/Reductant,150.11,163.1,EAF Dust
+Continuous Casting,Scrap Steel,Coating,Fuel/Reductant,64.92,41.78,Mill Scale
+Galvanizing,Coke,Melting,Coating Material,74.65,96.87,Zinc Ash
+Electric Arc Furnace,Iron Ore,Refining,Coating Material,101.58,105.31,Waste Gas Sludge
+Basic Oxygen Furnace,Limestone,Casting,Flux Material,135.0,121.26,Blast Furnace Slag
+Electric Arc Furnace,Coke,Refining,Flux Material,44.94,39.99,Steel Scrap
+Hot Rolling,Limestone,Casting,Coating Material,77.22,85.99,Pickling Sludge
+Hot Rolling,Zinc Coating Material,Coating,Non-Ferrous Metal,66.03,51.63,Mill Scale
+Electric Arc Furnace,Iron Ore,Coating,Flux Material,21.99,15.3,Steel Scrap
+Electric Arc Furnace,Coke,Melting,Fuel/Reductant,42.37,32.58,Refractory Waste
+Basic Oxygen Furnace,Iron Ore,Coating,Non-Ferrous Metal,91.72,106.49,Blast Furnace Slag
+Continuous Casting,Zinc Coating Material,Casting,Ferrous Metal,84.45,83.06,Mill Scale
+Forging,Zinc Coating Material,Casting,Fuel/Reductant,107.41,127.93,Refractory Waste
+Basic Oxygen Furnace,Alloy Additives,Refining,Fuel/Reductant,84.03,69.52,Blast Furnace Slag
+Forging,Zinc Coating Material,Refining,Non-Ferrous Metal,55.84,52.11,Steel Scrap
+Forging,Zinc Coating Material,Finishing,Flux Material,44.82,51.52,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Refining,Coating Material,39.42,50.01,Blast Furnace Slag
+Finishing & Grinding,Limestone,Casting,Fuel/Reductant,63.28,57.35,Steel Scrap
+Hot Rolling,Limestone,Casting,Fuel/Reductant,127.8,151.9,Mill Scale
+Continuous Casting,Zinc Coating Material,Casting,Coating Material,187.64,230.16,Mill Scale
+Galvanizing,Iron Ore,Melting,Non-Ferrous Metal,65.15,67.09,Waste Gas Sludge
+Electric Arc Furnace,Zinc Coating Material,Casting,Flux Material,86.15,96.16,Refractory Waste
+Forging,Limestone,Coating,Coating Material,60.84,65.47,Steel Scrap
+Continuous Casting,Scrap Steel,Melting,Ferrous Metal,72.61,44.18,Refractory Waste
+Continuous Casting,Iron Ore,Rolling,Flux Material,91.77,102.44,Steel Scrap
+Basic Oxygen Furnace,Alloy Additives,Coating,Flux Material,45.4,51.86,Refractory Waste
+Basic Oxygen Furnace,Iron Ore,Finishing,Fuel/Reductant,54.81,39.99,Waste Gas Sludge
+Galvanizing,Scrap Steel,Melting,Fuel/Reductant,134.76,82.83,Zinc Ash
+Forging,Zinc Coating Material,Rolling,Fuel/Reductant,113.34,144.79,Steel Scrap
+Continuous Casting,Coke,Refining,Non-Ferrous Metal,125.76,109.08,Mill Scale
+Continuous Casting,Scrap Steel,Coating,Coating Material,60.74,41.61,Steel Scrap
+Finishing & Grinding,Limestone,Coating,Fuel/Reductant,141.79,137.71,Steel Scrap
+Continuous Casting,Limestone,Refining,Coating Material,106.45,136.04,Mill Scale
+Electric Arc Furnace,Limestone,Finishing,Flux Material,64.03,65.39,Steel Scrap
+Galvanizing,Alloy Additives,Coating,Flux Material,122.62,137.78,Zinc Ash
+Galvanizing,Alloy Additives,Refining,Ferrous Metal,105.71,88.46,Waste Gas Sludge
+Electric Arc Furnace,Limestone,Coating,Flux Material,129.34,97.94,Refractory Waste
+Continuous Casting,Scrap Steel,Refining,Non-Ferrous Metal,52.88,54.42,Mill Scale
+Electric Arc Furnace,Iron Ore,Coating,Fuel/Reductant,32.35,24.86,EAF Dust
+Continuous Casting,Iron Ore,Refining,Coating Material,77.34,81.37,Mill Scale
+Galvanizing,Alloy Additives,Melting,Flux Material,75.49,88.41,Waste Gas Sludge
+Hot Rolling,Limestone,Coating,Flux Material,79.17,73.02,Steel Scrap
+Hot Rolling,Alloy Additives,Refining,Ferrous Metal,95.49,105.99,Mill Scale
+Continuous Casting,Coke,Finishing,Non-Ferrous Metal,110.93,108.88,Blast Furnace Slag
+Galvanizing,Scrap Steel,Melting,Non-Ferrous Metal,134.16,168.53,Pickling Sludge
+Basic Oxygen Furnace,Alloy Additives,Casting,Ferrous Metal,100.09,75.01,Blast Furnace Slag
+Forging,Alloy Additives,Melting,Flux Material,63.8,75.83,Steel Scrap
+Continuous Casting,Zinc Coating Material,Rolling,Fuel/Reductant,96.51,92.25,Steel Scrap
+Galvanizing,Iron Ore,Finishing,Coating Material,161.42,160.7,Pickling Sludge
+Cold Rolling,Iron Ore,Refining,Ferrous Metal,114.84,130.09,Steel Scrap
+Forging,Alloy Additives,Melting,Non-Ferrous Metal,99.35,91.71,Mill Scale
+Hot Rolling,Zinc Coating Material,Coating,Ferrous Metal,77.75,57.75,Pickling Sludge
+Basic Oxygen Furnace,Iron Ore,Casting,Flux Material,58.1,64.67,Blast Furnace Slag
+Basic Oxygen Furnace,Zinc Coating Material,Finishing,Flux Material,49.05,56.34,Blast Furnace Slag
+Hot Rolling,Zinc Coating Material,Melting,Flux Material,101.88,61.5,Mill Scale
+Electric Arc Furnace,Scrap Steel,Rolling,Fuel/Reductant,59.94,51.4,Refractory Waste
+Forging,Limestone,Rolling,Flux Material,110.31,77.68,Steel Scrap
+Finishing & Grinding,Alloy Additives,Finishing,Non-Ferrous Metal,113.49,97.35,Steel Scrap
+Electric Arc Furnace,Coke,Melting,Flux Material,72.37,80.0,EAF Dust
+Galvanizing,Iron Ore,Rolling,Non-Ferrous Metal,93.28,82.91,Pickling Sludge
+Basic Oxygen Furnace,Coke,Coating,Coating Material,122.84,73.98,Refractory Waste
+Forging,Zinc Coating Material,Refining,Coating Material,41.33,27.49,Refractory Waste
+Basic Oxygen Furnace,Coke,Refining,Non-Ferrous Metal,138.52,129.75,Blast Furnace Slag
+Cold Rolling,Zinc Coating Material,Casting,Flux Material,66.4,65.94,Waste Gas Sludge
+Continuous Casting,Scrap Steel,Casting,Ferrous Metal,91.76,93.82,Steel Scrap
+Finishing & Grinding,Iron Ore,Melting,Ferrous Metal,127.06,149.62,Steel Scrap
+Basic Oxygen Furnace,Limestone,Melting,Flux Material,107.96,70.6,Waste Gas Sludge
+Cold Rolling,Scrap Steel,Finishing,Coating Material,79.07,86.61,Pickling Sludge
+Forging,Coke,Refining,Fuel/Reductant,69.82,67.17,Steel Scrap
+Cold Rolling,Iron Ore,Casting,Coating Material,50.4,45.55,Pickling Sludge
+Basic Oxygen Furnace,Scrap Steel,Finishing,Flux Material,78.27,59.05,Waste Gas Sludge
+Hot Rolling,Alloy Additives,Melting,Fuel/Reductant,109.57,115.03,Waste Gas Sludge
+Finishing & Grinding,Alloy Additives,Refining,Fuel/Reductant,170.32,116.3,Steel Scrap
+Electric Arc Furnace,Alloy Additives,Coating,Coating Material,52.06,61.84,Refractory Waste
+Continuous Casting,Scrap Steel,Rolling,Non-Ferrous Metal,135.39,98.72,Blast Furnace Slag
+Hot Rolling,Iron Ore,Refining,Ferrous Metal,32.89,27.44,Mill Scale
+Forging,Iron Ore,Finishing,Non-Ferrous Metal,67.51,54.62,Mill Scale
+Basic Oxygen Furnace,Scrap Steel,Rolling,Coating Material,115.63,90.37,Blast Furnace Slag
+Cold Rolling,Alloy Additives,Rolling,Ferrous Metal,127.48,93.09,Steel Scrap
+Forging,Scrap Steel,Rolling,Non-Ferrous Metal,78.23,72.03,Steel Scrap
+Basic Oxygen Furnace,Scrap Steel,Coating,Ferrous Metal,51.17,56.78,Waste Gas Sludge
+Galvanizing,Limestone,Casting,Fuel/Reductant,83.17,75.34,Pickling Sludge
+Finishing & Grinding,Scrap Steel,Refining,Flux Material,121.36,124.66,Steel Scrap
+Forging,Scrap Steel,Rolling,Flux Material,115.92,130.52,Waste Gas Sludge
+Cold Rolling,Coke,Melting,Flux Material,98.26,62.88,Steel Scrap
+Cold Rolling,Limestone,Finishing,Ferrous Metal,89.41,70.03,Steel Scrap
+Cold Rolling,Zinc Coating Material,Rolling,Flux Material,98.32,77.71,Pickling Sludge
+Basic Oxygen Furnace,Iron Ore,Rolling,Non-Ferrous Metal,77.35,70.76,Refractory Waste
+Finishing & Grinding,Alloy Additives,Casting,Ferrous Metal,67.57,83.42,Mill Scale
+Cold Rolling,Zinc Coating Material,Coating,Fuel/Reductant,84.5,82.19,Pickling Sludge
+Electric Arc Furnace,Iron Ore,Refining,Non-Ferrous Metal,36.31,22.34,Refractory Waste
+Finishing & Grinding,Scrap Steel,Casting,Non-Ferrous Metal,53.36,68.0,Steel Scrap
+Forging,Zinc Coating Material,Melting,Ferrous Metal,112.63,100.6,Steel Scrap
+Finishing & Grinding,Iron Ore,Rolling,Coating Material,88.5,98.37,Mill Scale
+Cold Rolling,Zinc Coating Material,Finishing,Ferrous Metal,51.2,47.35,Pickling Sludge
+Continuous Casting,Alloy Additives,Refining,Non-Ferrous Metal,106.9,109.68,Steel Scrap
+Cold Rolling,Zinc Coating Material,Rolling,Coating Material,59.28,44.92,Pickling Sludge
+Electric Arc Furnace,Limestone,Refining,Non-Ferrous Metal,74.23,88.74,Pickling Sludge
+Cold Rolling,Zinc Coating Material,Finishing,Flux Material,126.75,152.37,Pickling Sludge
+Galvanizing,Limestone,Casting,Non-Ferrous Metal,219.97,142.4,Zinc Ash
+Forging,Alloy Additives,Melting,Ferrous Metal,99.28,91.42,Steel Scrap
+Galvanizing,Alloy Additives,Finishing,Coating Material,167.48,119.92,Pickling Sludge
+Basic Oxygen Furnace,Limestone,Melting,Flux Material,69.97,73.87,Refractory Waste
+Cold Rolling,Coke,Finishing,Flux Material,178.87,115.12,Pickling Sludge
+Hot Rolling,Scrap Steel,Coating,Fuel/Reductant,145.29,92.46,Steel Scrap
+Electric Arc Furnace,Zinc Coating Material,Rolling,Flux Material,87.05,64.5,EAF Dust
+Forging,Zinc Coating Material,Melting,Coating Material,62.11,70.17,Mill Scale
+Hot Rolling,Coke,Finishing,Non-Ferrous Metal,68.05,50.59,Steel Scrap
+Finishing & Grinding,Zinc Coating Material,Casting,Coating Material,72.77,93.84,Steel Scrap
+Continuous Casting,Coke,Melting,Fuel/Reductant,104.6,64.75,Mill Scale
+Continuous Casting,Zinc Coating Material,Casting,Ferrous Metal,82.84,80.94,Mill Scale
+Cold Rolling,Limestone,Casting,Flux Material,61.34,41.33,Pickling Sludge
+Basic Oxygen Furnace,Limestone,Melting,Coating Material,127.73,145.99,Steel Scrap
+Finishing & Grinding,Iron Ore,Coating,Ferrous Metal,104.35,77.49,Pickling Sludge
+Cold Rolling,Limestone,Melting,Non-Ferrous Metal,34.95,35.1,Pickling Sludge
+Forging,Alloy Additives,Rolling,Non-Ferrous Metal,92.37,107.01,Steel Scrap
+Basic Oxygen Furnace,Limestone,Casting,Non-Ferrous Metal,115.36,81.97,Waste Gas Sludge
+Cold Rolling,Iron Ore,Refining,Coating Material,78.33,90.49,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Coating,Fuel/Reductant,118.38,93.97,Steel Scrap
+Finishing & Grinding,Limestone,Melting,Ferrous Metal,70.62,49.33,Mill Scale
+Electric Arc Furnace,Coke,Coating,Non-Ferrous Metal,66.94,70.82,Mill Scale
+Hot Rolling,Zinc Coating Material,Casting,Flux Material,67.88,61.65,Mill Scale
+Cold Rolling,Iron Ore,Melting,Ferrous Metal,61.34,71.31,Pickling Sludge
+Galvanizing,Limestone,Finishing,Non-Ferrous Metal,92.48,118.1,Zinc Ash
+Galvanizing,Iron Ore,Refining,Fuel/Reductant,94.82,99.02,Zinc Ash
+Continuous Casting,Iron Ore,Finishing,Ferrous Metal,83.4,101.53,Steel Scrap
+Galvanizing,Zinc Coating Material,Finishing,Ferrous Metal,49.22,48.82,Zinc Ash
+Electric Arc Furnace,Alloy Additives,Melting,Ferrous Metal,76.21,84.1,Blast Furnace Slag
+Forging,Limestone,Rolling,Ferrous Metal,59.36,69.65,Steel Scrap
+Continuous Casting,Iron Ore,Finishing,Ferrous Metal,108.13,118.64,Mill Scale
+Cold Rolling,Alloy Additives,Coating,Non-Ferrous Metal,74.61,68.75,Pickling Sludge
+Basic Oxygen Furnace,Coke,Melting,Ferrous Metal,32.55,30.79,Blast Furnace Slag
+Cold Rolling,Alloy Additives,Refining,Flux Material,68.42,75.15,Mill Scale
+Electric Arc Furnace,Alloy Additives,Rolling,Non-Ferrous Metal,125.6,84.21,Steel Scrap
+Hot Rolling,Scrap Steel,Melting,Ferrous Metal,66.37,60.74,Pickling Sludge
+Finishing & Grinding,Iron Ore,Melting,Coating Material,71.16,75.13,Steel Scrap
+Cold Rolling,Zinc Coating Material,Refining,Fuel/Reductant,41.49,38.58,Steel Scrap
+Finishing & Grinding,Scrap Steel,Melting,Non-Ferrous Metal,137.6,143.64,Pickling Sludge
+Galvanizing,Zinc Coating Material,Casting,Fuel/Reductant,99.0,106.96,Pickling Sludge
+Electric Arc Furnace,Scrap Steel,Refining,Non-Ferrous Metal,59.79,43.19,EAF Dust
+Cold Rolling,Zinc Coating Material,Melting,Flux Material,71.44,56.83,Steel Scrap
+Forging,Limestone,Rolling,Flux Material,105.13,114.16,Mill Scale
+Finishing & Grinding,Limestone,Finishing,Non-Ferrous Metal,32.92,20.52,Steel Scrap
+Electric Arc Furnace,Iron Ore,Melting,Fuel/Reductant,89.57,94.69,Waste Gas Sludge
+Finishing & Grinding,Iron Ore,Coating,Fuel/Reductant,113.54,88.81,Mill Scale
+Continuous Casting,Limestone,Rolling,Ferrous Metal,111.13,118.85,Refractory Waste
+Basic Oxygen Furnace,Coke,Finishing,Flux Material,54.95,50.68,Blast Furnace Slag
+Hot Rolling,Zinc Coating Material,Casting,Coating Material,90.47,88.9,Mill Scale
+Basic Oxygen Furnace,Limestone,Finishing,Non-Ferrous Metal,94.36,84.53,Blast Furnace Slag
+Forging,Iron Ore,Coating,Coating Material,82.75,92.51,Steel Scrap
+Continuous Casting,Alloy Additives,Rolling,Fuel/Reductant,77.32,62.21,Refractory Waste
+Finishing & Grinding,Coke,Refining,Flux Material,100.96,113.86,Mill Scale
+Forging,Limestone,Refining,Ferrous Metal,120.84,146.33,Steel Scrap
+Finishing & Grinding,Scrap Steel,Rolling,Fuel/Reductant,67.54,73.79,Steel Scrap
+Electric Arc Furnace,Scrap Steel,Rolling,Fuel/Reductant,56.45,34.36,EAF Dust
+Basic Oxygen Furnace,Alloy Additives,Coating,Flux Material,88.32,71.62,Refractory Waste
+Finishing & Grinding,Coke,Casting,Ferrous Metal,39.58,44.34,Pickling Sludge
+Galvanizing,Alloy Additives,Coating,Coating Material,115.97,142.88,Zinc Ash
+Finishing & Grinding,Scrap Steel,Melting,Non-Ferrous Metal,101.23,123.97,Steel Scrap
+Cold Rolling,Alloy Additives,Coating,Flux Material,121.32,79.5,EAF Dust
+Finishing & Grinding,Iron Ore,Finishing,Fuel/Reductant,114.01,114.92,Steel Scrap
+Hot Rolling,Scrap Steel,Rolling,Non-Ferrous Metal,63.86,76.57,Mill Scale
+Galvanizing,Scrap Steel,Rolling,Ferrous Metal,61.4,62.58,Waste Gas Sludge
+Basic Oxygen Furnace,Limestone,Rolling,Coating Material,86.29,57.44,Refractory Waste
+Finishing & Grinding,Scrap Steel,Coating,Ferrous Metal,94.82,115.23,Mill Scale
+Finishing & Grinding,Alloy Additives,Refining,Coating Material,110.04,105.88,Steel Scrap
+Basic Oxygen Furnace,Limestone,Finishing,Coating Material,35.37,40.38,Steel Scrap
+Forging,Limestone,Coating,Non-Ferrous Metal,62.73,76.83,Steel Scrap
+Cold Rolling,Limestone,Refining,Non-Ferrous Metal,184.51,187.13,Pickling Sludge
+Cold Rolling,Zinc Coating Material,Coating,Flux Material,51.13,39.18,Mill Scale
+Hot Rolling,Iron Ore,Refining,Coating Material,54.98,51.76,Steel Scrap
+Continuous Casting,Zinc Coating Material,Finishing,Non-Ferrous Metal,86.08,108.92,Steel Scrap
+Galvanizing,Zinc Coating Material,Melting,Flux Material,149.51,156.07,Pickling Sludge
+Forging,Zinc Coating Material,Finishing,Coating Material,108.74,84.61,Steel Scrap
+Electric Arc Furnace,Alloy Additives,Melting,Ferrous Metal,70.25,49.04,Steel Scrap
+Hot Rolling,Coke,Refining,Flux Material,28.03,35.88,Steel Scrap
+Electric Arc Furnace,Zinc Coating Material,Casting,Non-Ferrous Metal,77.38,79.51,Waste Gas Sludge
+Basic Oxygen Furnace,Alloy Additives,Finishing,Coating Material,30.48,22.7,Refractory Waste
+Forging,Iron Ore,Coating,Flux Material,77.89,58.68,Refractory Waste
+Forging,Limestone,Finishing,Flux Material,85.25,57.6,Pickling Sludge
+Hot Rolling,Alloy Additives,Rolling,Non-Ferrous Metal,129.9,124.56,Pickling Sludge
+Galvanizing,Alloy Additives,Coating,Coating Material,66.0,82.65,Zinc Ash
+Hot Rolling,Coke,Rolling,Non-Ferrous Metal,60.1,40.85,Pickling Sludge
+Continuous Casting,Zinc Coating Material,Coating,Ferrous Metal,78.25,74.74,Mill Scale
+Cold Rolling,Iron Ore,Refining,Coating Material,84.34,109.22,Waste Gas Sludge
+Continuous Casting,Scrap Steel,Refining,Flux Material,129.51,102.61,Steel Scrap
+Cold Rolling,Limestone,Coating,Coating Material,44.69,55.21,Pickling Sludge
+Galvanizing,Alloy Additives,Refining,Non-Ferrous Metal,34.42,35.3,Zinc Ash
+Continuous Casting,Limestone,Coating,Coating Material,122.32,143.71,Steel Scrap
+Hot Rolling,Zinc Coating Material,Casting,Flux Material,67.07,70.12,Mill Scale
+Finishing & Grinding,Alloy Additives,Finishing,Ferrous Metal,90.28,61.4,Steel Scrap
+Hot Rolling,Zinc Coating Material,Coating,Coating Material,64.88,59.65,Zinc Ash
+Forging,Scrap Steel,Rolling,Flux Material,57.07,64.25,Steel Scrap
+Galvanizing,Alloy Additives,Coating,Fuel/Reductant,74.51,48.89,Zinc Ash
+Hot Rolling,Coke,Coating,Ferrous Metal,104.62,112.47,Pickling Sludge
+Electric Arc Furnace,Zinc Coating Material,Melting,Non-Ferrous Metal,79.13,80.36,Steel Scrap
+Forging,Scrap Steel,Refining,Coating Material,92.6,102.49,Mill Scale
+Forging,Zinc Coating Material,Melting,Non-Ferrous Metal,115.08,141.75,Steel Scrap
+Electric Arc Furnace,Scrap Steel,Melting,Ferrous Metal,87.1,52.97,EAF Dust
+Basic Oxygen Furnace,Alloy Additives,Refining,Flux Material,61.08,49.26,Blast Furnace Slag
+Forging,Limestone,Casting,Ferrous Metal,220.97,151.61,Steel Scrap
+Electric Arc Furnace,Zinc Coating Material,Finishing,Coating Material,68.81,57.82,EAF Dust
+Electric Arc Furnace,Zinc Coating Material,Melting,Flux Material,119.35,129.46,Waste Gas Sludge
+Cold Rolling,Alloy Additives,Melting,Flux Material,139.75,149.68,Steel Scrap
+Forging,Zinc Coating Material,Melting,Fuel/Reductant,55.56,50.7,Steel Scrap
+Forging,Alloy Additives,Casting,Non-Ferrous Metal,51.6,60.67,Steel Scrap
+Galvanizing,Scrap Steel,Coating,Coating Material,35.18,30.25,Refractory Waste
+Basic Oxygen Furnace,Coke,Refining,Flux Material,62.57,68.45,Blast Furnace Slag
+Continuous Casting,Iron Ore,Refining,Non-Ferrous Metal,54.41,49.04,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Finishing,Coating Material,149.66,183.04,Refractory Waste
+Finishing & Grinding,Zinc Coating Material,Coating,Ferrous Metal,55.0,57.86,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Finishing,Coating Material,70.55,59.15,Blast Furnace Slag
+Continuous Casting,Zinc Coating Material,Finishing,Non-Ferrous Metal,79.73,85.63,Mill Scale
+Hot Rolling,Coke,Rolling,Fuel/Reductant,61.98,53.01,Mill Scale
+Continuous Casting,Alloy Additives,Coating,Flux Material,172.0,161.66,Refractory Waste
+Continuous Casting,Scrap Steel,Casting,Non-Ferrous Metal,69.54,66.33,Refractory Waste
+Forging,Coke,Casting,Non-Ferrous Metal,81.41,50.61,Mill Scale
+Finishing & Grinding,Limestone,Rolling,Flux Material,100.47,71.54,Mill Scale
+Basic Oxygen Furnace,Iron Ore,Finishing,Coating Material,35.49,24.18,Blast Furnace Slag
+Continuous Casting,Alloy Additives,Refining,Flux Material,72.94,59.79,Refractory Waste
+Basic Oxygen Furnace,Scrap Steel,Coating,Ferrous Metal,93.84,120.94,Waste Gas Sludge
+Hot Rolling,Scrap Steel,Coating,Flux Material,121.53,154.68,Mill Scale
+Finishing & Grinding,Zinc Coating Material,Refining,Flux Material,41.02,40.16,Steel Scrap
+Cold Rolling,Iron Ore,Rolling,Coating Material,42.21,41.69,Mill Scale
+Electric Arc Furnace,Zinc Coating Material,Refining,Coating Material,154.44,140.28,Steel Scrap
+Continuous Casting,Limestone,Refining,Non-Ferrous Metal,94.26,73.67,Steel Scrap
+Continuous Casting,Zinc Coating Material,Finishing,Fuel/Reductant,47.44,46.98,Waste Gas Sludge
+Hot Rolling,Scrap Steel,Casting,Flux Material,57.7,58.07,Mill Scale
+Galvanizing,Limestone,Rolling,Fuel/Reductant,79.01,74.45,Zinc Ash
+Basic Oxygen Furnace,Zinc Coating Material,Coating,Flux Material,51.25,66.4,Waste Gas Sludge
+Continuous Casting,Limestone,Finishing,Fuel/Reductant,95.85,99.15,Mill Scale
+Basic Oxygen Furnace,Alloy Additives,Casting,Fuel/Reductant,121.33,106.36,Refractory Waste
+Forging,Coke,Casting,Fuel/Reductant,83.93,63.74,Mill Scale
+Electric Arc Furnace,Alloy Additives,Refining,Fuel/Reductant,66.3,81.99,EAF Dust
+Cold Rolling,Iron Ore,Refining,Non-Ferrous Metal,94.85,65.58,Pickling Sludge
+Basic Oxygen Furnace,Zinc Coating Material,Refining,Fuel/Reductant,165.11,113.49,Waste Gas Sludge
+Finishing & Grinding,Zinc Coating Material,Rolling,Fuel/Reductant,63.38,79.91,Steel Scrap
+Forging,Scrap Steel,Refining,Ferrous Metal,120.15,111.0,Steel Scrap
+Continuous Casting,Zinc Coating Material,Coating,Ferrous Metal,84.52,85.54,Refractory Waste
+Continuous Casting,Coke,Refining,Coating Material,99.72,79.78,Blast Furnace Slag
+Electric Arc Furnace,Zinc Coating Material,Finishing,Flux Material,109.95,105.32,Waste Gas Sludge
+Finishing & Grinding,Limestone,Refining,Non-Ferrous Metal,61.64,61.89,Pickling Sludge
+Continuous Casting,Alloy Additives,Finishing,Coating Material,135.16,135.36,Mill Scale
+Galvanizing,Limestone,Coating,Coating Material,73.53,54.44,Zinc Ash
+Continuous Casting,Scrap Steel,Melting,Non-Ferrous Metal,133.79,86.12,Steel Scrap
+Forging,Iron Ore,Coating,Ferrous Metal,77.91,71.2,Steel Scrap
+Electric Arc Furnace,Alloy Additives,Coating,Ferrous Metal,198.5,121.76,EAF Dust
+Electric Arc Furnace,Zinc Coating Material,Finishing,Fuel/Reductant,92.05,99.54,Steel Scrap
+Electric Arc Furnace,Zinc Coating Material,Coating,Fuel/Reductant,123.72,100.16,EAF Dust
+Forging,Coke,Coating,Coating Material,130.69,152.01,Steel Scrap
+Finishing & Grinding,Iron Ore,Melting,Flux Material,56.9,34.49,Mill Scale
+Cold Rolling,Iron Ore,Melting,Ferrous Metal,62.84,67.48,Mill Scale
+Electric Arc Furnace,Limestone,Finishing,Non-Ferrous Metal,67.27,75.11,Steel Scrap
+Galvanizing,Scrap Steel,Refining,Fuel/Reductant,119.4,133.53,Pickling Sludge
+Forging,Alloy Additives,Casting,Coating Material,100.95,107.11,Steel Scrap
+Hot Rolling,Limestone,Coating,Coating Material,65.51,78.1,Mill Scale
+Finishing & Grinding,Coke,Casting,Coating Material,60.45,39.56,Steel Scrap
+Continuous Casting,Zinc Coating Material,Melting,Non-Ferrous Metal,92.79,82.12,Steel Scrap
+Continuous Casting,Scrap Steel,Refining,Coating Material,78.36,91.35,Steel Scrap
+Electric Arc Furnace,Iron Ore,Rolling,Ferrous Metal,66.88,43.51,Refractory Waste
+Finishing & Grinding,Alloy Additives,Rolling,Ferrous Metal,86.08,56.28,Steel Scrap
+Basic Oxygen Furnace,Alloy Additives,Melting,Fuel/Reductant,108.64,125.61,Refractory Waste
+Cold Rolling,Zinc Coating Material,Coating,Ferrous Metal,78.76,69.47,Steel Scrap
+Finishing & Grinding,Limestone,Melting,Non-Ferrous Metal,87.98,67.1,Pickling Sludge
+Cold Rolling,Iron Ore,Melting,Coating Material,120.13,106.14,Mill Scale
+Continuous Casting,Zinc Coating Material,Melting,Flux Material,64.43,53.16,EAF Dust
+Basic Oxygen Furnace,Coke,Rolling,Flux Material,41.0,52.7,Steel Scrap
+Hot Rolling,Alloy Additives,Melting,Ferrous Metal,80.36,68.34,Pickling Sludge
+Galvanizing,Coke,Casting,Non-Ferrous Metal,57.99,55.22,Pickling Sludge
+Forging,Alloy Additives,Melting,Flux Material,97.53,98.52,Steel Scrap
+Basic Oxygen Furnace,Alloy Additives,Casting,Flux Material,63.87,49.14,Refractory Waste
+Cold Rolling,Alloy Additives,Coating,Flux Material,91.93,108.09,Mill Scale
+Finishing & Grinding,Iron Ore,Casting,Fuel/Reductant,93.73,65.61,Mill Scale
+Electric Arc Furnace,Limestone,Melting,Flux Material,143.89,113.67,EAF Dust
+Hot Rolling,Zinc Coating Material,Finishing,Non-Ferrous Metal,34.9,36.32,Waste Gas Sludge
+Galvanizing,Alloy Additives,Coating,Ferrous Metal,84.0,94.42,Pickling Sludge
+Cold Rolling,Scrap Steel,Rolling,Flux Material,64.54,70.66,Pickling Sludge
+Finishing & Grinding,Coke,Casting,Non-Ferrous Metal,85.55,101.59,Pickling Sludge
+Hot Rolling,Limestone,Finishing,Non-Ferrous Metal,57.88,49.32,Mill Scale
+Cold Rolling,Iron Ore,Refining,Non-Ferrous Metal,131.86,156.9,Steel Scrap
+Galvanizing,Iron Ore,Melting,Ferrous Metal,127.22,114.97,Waste Gas Sludge
+Finishing & Grinding,Alloy Additives,Melting,Coating Material,63.43,54.81,Pickling Sludge
+Galvanizing,Alloy Additives,Casting,Fuel/Reductant,82.68,86.23,Waste Gas Sludge
+Cold Rolling,Limestone,Refining,Coating Material,177.21,106.87,Pickling Sludge
+Continuous Casting,Scrap Steel,Coating,Fuel/Reductant,105.04,134.06,Steel Scrap
+Galvanizing,Limestone,Finishing,Non-Ferrous Metal,59.05,74.73,Zinc Ash
+Finishing & Grinding,Coke,Finishing,Ferrous Metal,52.61,60.36,Steel Scrap
+Basic Oxygen Furnace,Coke,Casting,Coating Material,128.67,81.54,Refractory Waste
+Cold Rolling,Iron Ore,Casting,Fuel/Reductant,100.41,90.66,Steel Scrap
+Continuous Casting,Limestone,Rolling,Non-Ferrous Metal,80.62,60.16,Steel Scrap
+Galvanizing,Limestone,Casting,Fuel/Reductant,44.06,50.11,Zinc Ash
+Hot Rolling,Scrap Steel,Finishing,Flux Material,43.79,51.48,Waste Gas Sludge
+Forging,Iron Ore,Refining,Non-Ferrous Metal,71.61,66.64,Refractory Waste
+Finishing & Grinding,Iron Ore,Finishing,Coating Material,103.42,77.67,Mill Scale
+Finishing & Grinding,Coke,Casting,Coating Material,124.6,86.67,Blast Furnace Slag
+Continuous Casting,Scrap Steel,Refining,Flux Material,156.01,174.27,Steel Scrap
+Finishing & Grinding,Zinc Coating Material,Casting,Flux Material,129.46,142.31,Steel Scrap
+Cold Rolling,Coke,Melting,Fuel/Reductant,44.9,54.92,Pickling Sludge
+Hot Rolling,Alloy Additives,Coating,Coating Material,57.33,38.87,Mill Scale
+Galvanizing,Coke,Finishing,Coating Material,43.88,34.55,Zinc Ash
+Basic Oxygen Furnace,Limestone,Coating,Flux Material,41.34,28.4,Blast Furnace Slag
+Continuous Casting,Zinc Coating Material,Casting,Fuel/Reductant,50.6,47.82,Steel Scrap
+Basic Oxygen Furnace,Scrap Steel,Refining,Flux Material,115.96,70.38,Blast Furnace Slag
+Cold Rolling,Zinc Coating Material,Casting,Coating Material,24.72,31.5,Mill Scale
+Finishing & Grinding,Coke,Finishing,Coating Material,179.33,204.76,Mill Scale
+Continuous Casting,Iron Ore,Melting,Non-Ferrous Metal,92.96,89.7,Refractory Waste
+Basic Oxygen Furnace,Iron Ore,Refining,Fuel/Reductant,76.79,47.02,Blast Furnace Slag
+Finishing & Grinding,Alloy Additives,Melting,Ferrous Metal,92.05,105.05,Mill Scale
+Basic Oxygen Furnace,Scrap Steel,Casting,Coating Material,28.82,17.32,Blast Furnace Slag
+Forging,Coke,Refining,Non-Ferrous Metal,94.46,99.42,Mill Scale
+Continuous Casting,Iron Ore,Coating,Non-Ferrous Metal,111.25,97.74,Mill Scale
+Galvanizing,Limestone,Rolling,Coating Material,111.54,72.05,Waste Gas Sludge
+Continuous Casting,Zinc Coating Material,Coating,Non-Ferrous Metal,61.13,68.66,Steel Scrap
+Forging,Alloy Additives,Finishing,Coating Material,59.6,38.17,Steel Scrap
+Hot Rolling,Scrap Steel,Rolling,Flux Material,105.66,90.44,Mill Scale
+Cold Rolling,Scrap Steel,Melting,Coating Material,86.86,64.02,Steel Scrap
+Galvanizing,Coke,Rolling,Coating Material,97.68,98.15,Zinc Ash
+Finishing & Grinding,Coke,Melting,Fuel/Reductant,54.21,63.31,Mill Scale
+Electric Arc Furnace,Alloy Additives,Casting,Non-Ferrous Metal,46.56,36.41,EAF Dust
+Forging,Iron Ore,Refining,Fuel/Reductant,154.72,192.2,Mill Scale
+Basic Oxygen Furnace,Limestone,Finishing,Non-Ferrous Metal,75.95,83.2,Steel Scrap
+Cold Rolling,Coke,Finishing,Coating Material,34.86,24.51,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Refining,Flux Material,51.74,50.23,Blast Furnace Slag
+Finishing & Grinding,Coke,Finishing,Coating Material,79.56,75.62,Steel Scrap
+Continuous Casting,Scrap Steel,Coating,Ferrous Metal,67.45,78.57,Mill Scale
+Cold Rolling,Iron Ore,Finishing,Fuel/Reductant,93.28,91.66,Mill Scale
+Continuous Casting,Scrap Steel,Rolling,Non-Ferrous Metal,66.42,60.57,Mill Scale
+Finishing & Grinding,Coke,Rolling,Ferrous Metal,82.07,52.11,Steel Scrap
+Continuous Casting,Scrap Steel,Casting,Fuel/Reductant,102.02,129.81,Mill Scale
+Hot Rolling,Coke,Rolling,Ferrous Metal,98.95,125.27,Mill Scale
+Hot Rolling,Limestone,Rolling,Non-Ferrous Metal,86.72,78.56,Waste Gas Sludge
+Basic Oxygen Furnace,Alloy Additives,Finishing,Non-Ferrous Metal,97.41,63.43,Blast Furnace Slag
+Cold Rolling,Coke,Refining,Ferrous Metal,90.94,105.02,Mill Scale
+Basic Oxygen Furnace,Coke,Rolling,Flux Material,86.49,109.03,Blast Furnace Slag
+Hot Rolling,Scrap Steel,Refining,Fuel/Reductant,85.96,97.14,Mill Scale
+Cold Rolling,Alloy Additives,Melting,Fuel/Reductant,107.11,100.02,Steel Scrap
+Finishing & Grinding,Zinc Coating Material,Coating,Non-Ferrous Metal,55.08,58.75,Steel Scrap
+Continuous Casting,Limestone,Melting,Coating Material,118.25,117.72,Mill Scale
+Electric Arc Furnace,Scrap Steel,Casting,Non-Ferrous Metal,84.77,51.4,Refractory Waste
+Continuous Casting,Limestone,Refining,Flux Material,153.88,192.09,Blast Furnace Slag
+Galvanizing,Limestone,Finishing,Non-Ferrous Metal,109.48,90.34,Zinc Ash
+Continuous Casting,Coke,Melting,Fuel/Reductant,47.25,52.46,Refractory Waste
+Finishing & Grinding,Iron Ore,Coating,Non-Ferrous Metal,79.62,74.57,Mill Scale
+Finishing & Grinding,Coke,Coating,Coating Material,57.48,39.26,Steel Scrap
+Finishing & Grinding,Coke,Casting,Coating Material,60.71,78.64,Refractory Waste
+Continuous Casting,Scrap Steel,Coating,Flux Material,40.44,45.81,Refractory Waste
+Basic Oxygen Furnace,Zinc Coating Material,Coating,Fuel/Reductant,45.47,56.51,Blast Furnace Slag
+Continuous Casting,Alloy Additives,Casting,Flux Material,39.64,39.8,Steel Scrap
+Basic Oxygen Furnace,Alloy Additives,Finishing,Ferrous Metal,135.06,134.36,Blast Furnace Slag
+Continuous Casting,Scrap Steel,Refining,Ferrous Metal,65.56,69.47,Steel Scrap
+Forging,Zinc Coating Material,Rolling,Coating Material,62.08,41.67,Mill Scale
+Electric Arc Furnace,Coke,Refining,Coating Material,65.39,49.34,Mill Scale
+Finishing & Grinding,Scrap Steel,Rolling,Ferrous Metal,92.87,117.51,Steel Scrap
+Forging,Coke,Finishing,Ferrous Metal,78.41,71.01,Mill Scale
+Electric Arc Furnace,Zinc Coating Material,Melting,Flux Material,106.16,84.69,EAF Dust
+Basic Oxygen Furnace,Scrap Steel,Finishing,Non-Ferrous Metal,218.02,267.26,Steel Scrap
+Hot Rolling,Alloy Additives,Finishing,Non-Ferrous Metal,146.0,138.45,Steel Scrap
+Basic Oxygen Furnace,Zinc Coating Material,Coating,Flux Material,71.33,72.31,Steel Scrap
+Forging,Scrap Steel,Refining,Non-Ferrous Metal,66.81,49.77,Steel Scrap
+Continuous Casting,Alloy Additives,Coating,Fuel/Reductant,53.37,34.6,Blast Furnace Slag
+Galvanizing,Coke,Rolling,Fuel/Reductant,85.4,99.71,Pickling Sludge
+Hot Rolling,Alloy Additives,Coating,Non-Ferrous Metal,112.94,94.03,Mill Scale
+Cold Rolling,Coke,Rolling,Fuel/Reductant,127.67,90.15,Steel Scrap
+Cold Rolling,Alloy Additives,Melting,Coating Material,114.28,111.69,Pickling Sludge
+Electric Arc Furnace,Coke,Refining,Non-Ferrous Metal,66.14,45.6,Pickling Sludge
+Continuous Casting,Scrap Steel,Melting,Fuel/Reductant,38.3,22.98,Mill Scale
+Galvanizing,Alloy Additives,Refining,Non-Ferrous Metal,112.11,143.63,Zinc Ash
+Forging,Alloy Additives,Refining,Ferrous Metal,22.47,18.27,Mill Scale
+Continuous Casting,Limestone,Finishing,Coating Material,53.27,59.16,Refractory Waste
+Cold Rolling,Scrap Steel,Finishing,Coating Material,60.96,46.15,Pickling Sludge
+Galvanizing,Coke,Rolling,Fuel/Reductant,136.3,122.1,Waste Gas Sludge
+Hot Rolling,Zinc Coating Material,Finishing,Coating Material,117.8,97.5,Pickling Sludge
+Forging,Scrap Steel,Casting,Coating Material,119.72,102.92,Steel Scrap
+Continuous Casting,Coke,Coating,Non-Ferrous Metal,107.42,125.11,Mill Scale
+Forging,Limestone,Coating,Coating Material,148.5,97.26,Steel Scrap
+Cold Rolling,Limestone,Refining,Non-Ferrous Metal,37.19,40.78,Pickling Sludge
+Electric Arc Furnace,Alloy Additives,Rolling,Flux Material,103.33,130.87,EAF Dust
+Continuous Casting,Iron Ore,Rolling,Coating Material,66.25,52.05,Mill Scale
+Hot Rolling,Alloy Additives,Coating,Coating Material,39.96,45.21,Mill Scale
+Forging,Coke,Finishing,Coating Material,116.57,111.87,Steel Scrap
+Forging,Coke,Casting,Non-Ferrous Metal,26.33,31.05,Steel Scrap
+Electric Arc Furnace,Coke,Refining,Flux Material,90.73,99.81,Steel Scrap
+Finishing & Grinding,Alloy Additives,Refining,Fuel/Reductant,117.6,130.57,Steel Scrap
+Hot Rolling,Zinc Coating Material,Casting,Non-Ferrous Metal,82.38,65.23,Steel Scrap
+Basic Oxygen Furnace,Zinc Coating Material,Melting,Non-Ferrous Metal,67.26,56.16,Refractory Waste
+Cold Rolling,Scrap Steel,Casting,Ferrous Metal,105.78,126.89,Pickling Sludge
+Galvanizing,Iron Ore,Finishing,Coating Material,128.66,162.49,Zinc Ash
+Cold Rolling,Alloy Additives,Rolling,Coating Material,123.07,106.62,Mill Scale
+Electric Arc Furnace,Limestone,Coating,Coating Material,102.27,88.88,EAF Dust
+Cold Rolling,Iron Ore,Finishing,Coating Material,67.3,79.91,Pickling Sludge
+Electric Arc Furnace,Scrap Steel,Rolling,Flux Material,82.87,90.61,Steel Scrap
+Galvanizing,Scrap Steel,Melting,Flux Material,102.3,100.51,Waste Gas Sludge
+Hot Rolling,Limestone,Coating,Ferrous Metal,167.91,121.82,Pickling Sludge
+Basic Oxygen Furnace,Iron Ore,Refining,Coating Material,86.43,85.3,Refractory Waste
+Electric Arc Furnace,Scrap Steel,Refining,Coating Material,54.15,38.45,EAF Dust
+Continuous Casting,Scrap Steel,Casting,Flux Material,75.39,60.54,Mill Scale
+Cold Rolling,Scrap Steel,Finishing,Flux Material,99.17,76.89,Steel Scrap
+Electric Arc Furnace,Alloy Additives,Casting,Non-Ferrous Metal,117.32,117.35,EAF Dust
+Continuous Casting,Scrap Steel,Finishing,Fuel/Reductant,87.51,71.3,Steel Scrap
+Hot Rolling,Limestone,Refining,Coating Material,64.14,66.38,Mill Scale
+Galvanizing,Limestone,Coating,Non-Ferrous Metal,136.32,88.31,Zinc Ash
+Hot Rolling,Iron Ore,Casting,Coating Material,57.61,46.09,Pickling Sludge
+Continuous Casting,Zinc Coating Material,Coating,Non-Ferrous Metal,167.58,107.19,Mill Scale
+Basic Oxygen Furnace,Iron Ore,Casting,Non-Ferrous Metal,63.62,80.23,Waste Gas Sludge
+Forging,Limestone,Casting,Fuel/Reductant,144.78,107.04,Mill Scale
+Cold Rolling,Iron Ore,Refining,Ferrous Metal,132.87,149.57,Pickling Sludge
+Hot Rolling,Alloy Additives,Refining,Non-Ferrous Metal,74.92,67.61,Steel Scrap
+Finishing & Grinding,Iron Ore,Coating,Coating Material,67.51,43.7,Steel Scrap
+Continuous Casting,Limestone,Rolling,Fuel/Reductant,45.84,31.14,Mill Scale
+Electric Arc Furnace,Limestone,Melting,Flux Material,87.8,98.03,Waste Gas Sludge
+Hot Rolling,Iron Ore,Melting,Non-Ferrous Metal,64.05,56.26,Pickling Sludge
+Finishing & Grinding,Zinc Coating Material,Casting,Fuel/Reductant,161.38,120.02,Pickling Sludge
+Electric Arc Furnace,Alloy Additives,Finishing,Fuel/Reductant,36.63,38.82,Refractory Waste
+Electric Arc Furnace,Alloy Additives,Melting,Fuel/Reductant,80.51,82.33,Steel Scrap
+Hot Rolling,Alloy Additives,Coating,Fuel/Reductant,82.06,83.65,Refractory Waste
+Electric Arc Furnace,Iron Ore,Casting,Fuel/Reductant,91.8,96.75,EAF Dust
+Cold Rolling,Limestone,Refining,Fuel/Reductant,134.96,110.54,Pickling Sludge
+Continuous Casting,Limestone,Finishing,Fuel/Reductant,126.58,128.9,Mill Scale
+Continuous Casting,Alloy Additives,Finishing,Coating Material,77.55,84.59,Mill Scale
+Finishing & Grinding,Scrap Steel,Refining,Fuel/Reductant,95.27,84.38,Mill Scale
+Hot Rolling,Limestone,Melting,Flux Material,86.57,79.23,Mill Scale
+Continuous Casting,Zinc Coating Material,Finishing,Ferrous Metal,76.19,67.0,Mill Scale
+Galvanizing,Scrap Steel,Coating,Fuel/Reductant,71.97,92.4,Pickling Sludge
+Continuous Casting,Limestone,Coating,Fuel/Reductant,100.91,61.13,Mill Scale
+Galvanizing,Alloy Additives,Finishing,Non-Ferrous Metal,57.72,71.58,Zinc Ash
+Electric Arc Furnace,Limestone,Casting,Flux Material,80.07,62.54,Refractory Waste
+Cold Rolling,Zinc Coating Material,Refining,Ferrous Metal,160.07,162.09,Steel Scrap
+Electric Arc Furnace,Alloy Additives,Casting,Ferrous Metal,68.6,71.78,Steel Scrap
+Electric Arc Furnace,Alloy Additives,Rolling,Non-Ferrous Metal,117.22,86.68,EAF Dust
+Finishing & Grinding,Limestone,Rolling,Ferrous Metal,54.77,61.18,Pickling Sludge
+Hot Rolling,Scrap Steel,Refining,Non-Ferrous Metal,62.42,40.18,Mill Scale
+Continuous Casting,Scrap Steel,Finishing,Coating Material,57.55,64.05,Refractory Waste
+Basic Oxygen Furnace,Scrap Steel,Melting,Fuel/Reductant,156.69,198.38,Refractory Waste
+Cold Rolling,Alloy Additives,Finishing,Coating Material,125.81,146.39,Mill Scale
+Finishing & Grinding,Zinc Coating Material,Coating,Flux Material,44.16,49.46,Pickling Sludge
+Cold Rolling,Coke,Casting,Fuel/Reductant,92.6,89.36,Steel Scrap
+Basic Oxygen Furnace,Coke,Rolling,Non-Ferrous Metal,78.56,79.28,Blast Furnace Slag
+Galvanizing,Alloy Additives,Rolling,Coating Material,64.74,51.03,Zinc Ash
+Electric Arc Furnace,Scrap Steel,Coating,Coating Material,117.34,135.08,Waste Gas Sludge
+Cold Rolling,Limestone,Coating,Flux Material,75.73,78.85,Pickling Sludge
+Galvanizing,Iron Ore,Coating,Coating Material,118.25,107.58,Zinc Ash
+Finishing & Grinding,Limestone,Refining,Coating Material,53.6,67.29,Steel Scrap
+Hot Rolling,Scrap Steel,Melting,Ferrous Metal,69.02,55.96,Mill Scale
+Hot Rolling,Alloy Additives,Rolling,Fuel/Reductant,36.1,23.08,Mill Scale
+Hot Rolling,Scrap Steel,Finishing,Non-Ferrous Metal,116.58,132.33,Steel Scrap
+Basic Oxygen Furnace,Coke,Casting,Coating Material,84.41,89.36,Steel Scrap
+Basic Oxygen Furnace,Zinc Coating Material,Casting,Flux Material,62.4,40.52,Blast Furnace Slag
+Electric Arc Furnace,Iron Ore,Refining,Flux Material,68.6,73.06,Refractory Waste
+Finishing & Grinding,Limestone,Melting,Non-Ferrous Metal,89.94,60.92,Steel Scrap
+Galvanizing,Limestone,Rolling,Ferrous Metal,91.03,74.36,Pickling Sludge
+Galvanizing,Alloy Additives,Coating,Ferrous Metal,88.61,75.3,Zinc Ash
+Galvanizing,Scrap Steel,Refining,Flux Material,38.44,45.36,Pickling Sludge
+Forging,Zinc Coating Material,Coating,Non-Ferrous Metal,63.31,80.21,Steel Scrap
+Basic Oxygen Furnace,Coke,Finishing,Flux Material,126.2,107.03,Waste Gas Sludge
+Basic Oxygen Furnace,Limestone,Refining,Flux Material,112.85,75.81,Blast Furnace Slag
+Hot Rolling,Alloy Additives,Casting,Non-Ferrous Metal,85.32,84.24,Mill Scale
+Hot Rolling,Scrap Steel,Rolling,Coating Material,44.15,47.41,Mill Scale
+Continuous Casting,Iron Ore,Casting,Fuel/Reductant,85.51,102.71,Refractory Waste
+Galvanizing,Iron Ore,Melting,Coating Material,71.84,51.17,Pickling Sludge
+Electric Arc Furnace,Limestone,Rolling,Coating Material,155.4,112.74,EAF Dust
+Electric Arc Furnace,Zinc Coating Material,Coating,Ferrous Metal,53.09,38.0,EAF Dust
+Basic Oxygen Furnace,Alloy Additives,Finishing,Flux Material,114.42,126.22,Blast Furnace Slag
+Hot Rolling,Coke,Refining,Non-Ferrous Metal,89.07,58.65,Mill Scale
+Finishing & Grinding,Zinc Coating Material,Melting,Flux Material,163.75,117.25,Steel Scrap
+Electric Arc Furnace,Alloy Additives,Coating,Coating Material,75.36,50.77,EAF Dust
+Galvanizing,Coke,Refining,Flux Material,101.1,97.41,Pickling Sludge
+Cold Rolling,Alloy Additives,Casting,Coating Material,43.76,38.23,Pickling Sludge
+Finishing & Grinding,Zinc Coating Material,Melting,Ferrous Metal,108.27,81.6,Steel Scrap
+Forging,Iron Ore,Finishing,Coating Material,89.08,79.37,Refractory Waste
+Finishing & Grinding,Alloy Additives,Casting,Flux Material,101.9,99.72,Steel Scrap
+Basic Oxygen Furnace,Limestone,Coating,Non-Ferrous Metal,129.97,123.48,Blast Furnace Slag
+Finishing & Grinding,Scrap Steel,Rolling,Flux Material,128.52,155.43,Mill Scale
+Finishing & Grinding,Limestone,Refining,Non-Ferrous Metal,106.14,108.68,Steel Scrap
+Cold Rolling,Coke,Rolling,Non-Ferrous Metal,191.42,160.04,Mill Scale
+Galvanizing,Limestone,Rolling,Ferrous Metal,101.44,88.69,Zinc Ash
+Finishing & Grinding,Limestone,Refining,Flux Material,59.34,44.09,Mill Scale
+Continuous Casting,Alloy Additives,Melting,Fuel/Reductant,20.66,23.86,Refractory Waste
+Galvanizing,Alloy Additives,Finishing,Ferrous Metal,94.61,88.17,Pickling Sludge
+Forging,Alloy Additives,Rolling,Non-Ferrous Metal,179.96,139.88,Mill Scale
+Finishing & Grinding,Limestone,Melting,Flux Material,124.02,137.22,Steel Scrap
+Forging,Limestone,Coating,Flux Material,137.63,163.82,Steel Scrap
+Basic Oxygen Furnace,Zinc Coating Material,Finishing,Coating Material,89.8,74.85,Waste Gas Sludge
+Finishing & Grinding,Coke,Coating,Ferrous Metal,76.75,91.98,Pickling Sludge
+Forging,Scrap Steel,Coating,Ferrous Metal,146.98,136.16,Mill Scale
+Forging,Coke,Rolling,Ferrous Metal,78.58,96.75,Steel Scrap
+Electric Arc Furnace,Iron Ore,Finishing,Non-Ferrous Metal,62.43,40.38,Steel Scrap
+Finishing & Grinding,Iron Ore,Refining,Flux Material,75.53,96.5,Steel Scrap
+Cold Rolling,Limestone,Finishing,Flux Material,123.21,129.84,Steel Scrap
+Forging,Iron Ore,Casting,Ferrous Metal,78.26,70.7,Steel Scrap
+Electric Arc Furnace,Scrap Steel,Finishing,Coating Material,63.45,62.9,Refractory Waste
+Cold Rolling,Scrap Steel,Refining,Fuel/Reductant,52.03,44.79,Mill Scale
+Galvanizing,Zinc Coating Material,Rolling,Fuel/Reductant,62.7,53.84,Zinc Ash
+Continuous Casting,Limestone,Refining,Non-Ferrous Metal,164.7,180.53,Steel Scrap
+Galvanizing,Limestone,Refining,Flux Material,75.3,56.65,Waste Gas Sludge
+Continuous Casting,Scrap Steel,Melting,Ferrous Metal,77.76,90.45,Mill Scale
+Forging,Iron Ore,Melting,Non-Ferrous Metal,184.8,181.82,Mill Scale
+Finishing & Grinding,Zinc Coating Material,Coating,Fuel/Reductant,145.26,168.81,Mill Scale
+Forging,Alloy Additives,Rolling,Fuel/Reductant,100.68,70.3,Steel Scrap
+Electric Arc Furnace,Alloy Additives,Rolling,Non-Ferrous Metal,129.42,93.04,Refractory Waste
+Galvanizing,Scrap Steel,Melting,Coating Material,151.97,185.9,Zinc Ash
+Finishing & Grinding,Zinc Coating Material,Melting,Non-Ferrous Metal,98.36,100.13,Mill Scale
+Cold Rolling,Limestone,Coating,Ferrous Metal,93.02,113.71,Mill Scale
+Hot Rolling,Limestone,Finishing,Ferrous Metal,170.48,158.84,Steel Scrap
+Cold Rolling,Alloy Additives,Melting,Flux Material,131.11,103.53,Waste Gas Sludge
+Finishing & Grinding,Alloy Additives,Finishing,Flux Material,64.42,48.34,Steel Scrap
+Cold Rolling,Coke,Refining,Ferrous Metal,53.85,66.53,Mill Scale
+Cold Rolling,Zinc Coating Material,Coating,Flux Material,44.81,48.72,Pickling Sludge
+Continuous Casting,Alloy Additives,Melting,Flux Material,86.11,101.2,Refractory Waste
+Cold Rolling,Limestone,Melting,Non-Ferrous Metal,131.04,142.13,Mill Scale
+Cold Rolling,Coke,Refining,Coating Material,108.14,135.97,Pickling Sludge
+Electric Arc Furnace,Zinc Coating Material,Melting,Coating Material,43.66,32.03,EAF Dust
+Continuous Casting,Zinc Coating Material,Rolling,Flux Material,130.88,98.57,Refractory Waste
+Hot Rolling,Limestone,Refining,Coating Material,41.33,48.38,Waste Gas Sludge
+Basic Oxygen Furnace,Iron Ore,Coating,Non-Ferrous Metal,109.03,123.49,Waste Gas Sludge
+Forging,Limestone,Refining,Fuel/Reductant,55.41,34.45,Mill Scale
+Galvanizing,Scrap Steel,Finishing,Flux Material,147.21,91.8,Pickling Sludge
+Continuous Casting,Limestone,Rolling,Fuel/Reductant,73.67,46.21,Mill Scale
+Hot Rolling,Limestone,Finishing,Fuel/Reductant,103.79,85.74,Mill Scale
+Forging,Scrap Steel,Casting,Fuel/Reductant,111.27,131.05,Steel Scrap
+Electric Arc Furnace,Scrap Steel,Coating,Flux Material,74.99,58.07,Waste Gas Sludge
+Cold Rolling,Coke,Casting,Flux Material,62.16,80.76,Steel Scrap
+Forging,Limestone,Finishing,Non-Ferrous Metal,89.56,100.64,Mill Scale
+Hot Rolling,Alloy Additives,Casting,Non-Ferrous Metal,98.85,76.02,Steel Scrap
+Basic Oxygen Furnace,Scrap Steel,Rolling,Ferrous Metal,96.78,85.92,Steel Scrap
+Galvanizing,Iron Ore,Finishing,Flux Material,136.17,111.52,Blast Furnace Slag
+Electric Arc Furnace,Alloy Additives,Finishing,Non-Ferrous Metal,65.4,49.86,Waste Gas Sludge
+Basic Oxygen Furnace,Scrap Steel,Coating,Non-Ferrous Metal,142.13,168.56,Blast Furnace Slag
+Continuous Casting,Scrap Steel,Finishing,Non-Ferrous Metal,109.53,108.91,Mill Scale
+Basic Oxygen Furnace,Zinc Coating Material,Rolling,Flux Material,124.4,125.23,Waste Gas Sludge
+Galvanizing,Coke,Refining,Ferrous Metal,97.36,109.99,Zinc Ash
+Forging,Coke,Melting,Flux Material,165.09,125.5,Refractory Waste
+Finishing & Grinding,Scrap Steel,Rolling,Non-Ferrous Metal,68.61,85.74,Mill Scale
+Finishing & Grinding,Scrap Steel,Refining,Coating Material,77.84,58.24,Mill Scale
+Basic Oxygen Furnace,Limestone,Finishing,Flux Material,106.62,137.2,Blast Furnace Slag
+Cold Rolling,Limestone,Melting,Fuel/Reductant,131.52,133.52,Pickling Sludge
+Electric Arc Furnace,Zinc Coating Material,Rolling,Flux Material,106.16,97.49,EAF Dust
+Forging,Alloy Additives,Melting,Coating Material,134.94,169.91,Mill Scale
+Finishing & Grinding,Limestone,Rolling,Ferrous Metal,134.05,127.38,Waste Gas Sludge
+Basic Oxygen Furnace,Alloy Additives,Coating,Flux Material,131.26,104.05,Blast Furnace Slag
+Electric Arc Furnace,Zinc Coating Material,Finishing,Ferrous Metal,129.58,135.43,EAF Dust
+Galvanizing,Scrap Steel,Rolling,Flux Material,48.8,44.83,Pickling Sludge
+Electric Arc Furnace,Limestone,Finishing,Non-Ferrous Metal,99.05,117.49,EAF Dust
+Basic Oxygen Furnace,Zinc Coating Material,Finishing,Flux Material,105.08,124.7,Blast Furnace Slag
+Finishing & Grinding,Zinc Coating Material,Refining,Non-Ferrous Metal,141.93,180.63,Mill Scale
+Finishing & Grinding,Limestone,Melting,Coating Material,54.58,38.62,Mill Scale
+Finishing & Grinding,Scrap Steel,Melting,Flux Material,247.91,196.82,Steel Scrap
+Electric Arc Furnace,Limestone,Melting,Non-Ferrous Metal,90.51,76.79,Refractory Waste
+Finishing & Grinding,Zinc Coating Material,Coating,Non-Ferrous Metal,115.36,71.78,Mill Scale
+Basic Oxygen Furnace,Scrap Steel,Finishing,Non-Ferrous Metal,59.31,72.16,Steel Scrap
+Hot Rolling,Zinc Coating Material,Finishing,Non-Ferrous Metal,79.79,84.68,Mill Scale
+Cold Rolling,Scrap Steel,Rolling,Coating Material,101.25,74.69,Pickling Sludge
+Basic Oxygen Furnace,Scrap Steel,Rolling,Coating Material,73.39,58.75,Waste Gas Sludge
+Hot Rolling,Limestone,Casting,Fuel/Reductant,95.73,114.22,Mill Scale
+Continuous Casting,Coke,Refining,Ferrous Metal,87.7,73.2,Steel Scrap
+Basic Oxygen Furnace,Coke,Refining,Fuel/Reductant,97.85,64.54,Blast Furnace Slag
+Continuous Casting,Limestone,Refining,Coating Material,96.5,62.7,Mill Scale
+Forging,Iron Ore,Melting,Fuel/Reductant,63.56,50.08,Blast Furnace Slag
+Cold Rolling,Limestone,Finishing,Fuel/Reductant,62.23,44.63,Mill Scale
+Cold Rolling,Alloy Additives,Rolling,Fuel/Reductant,37.56,31.11,Pickling Sludge
+Electric Arc Furnace,Alloy Additives,Refining,Fuel/Reductant,69.52,53.03,Steel Scrap
+Cold Rolling,Coke,Rolling,Ferrous Metal,72.09,77.27,Mill Scale
+Basic Oxygen Furnace,Alloy Additives,Casting,Coating Material,65.92,49.27,Steel Scrap
+Hot Rolling,Coke,Melting,Non-Ferrous Metal,72.16,86.97,Mill Scale
+Finishing & Grinding,Limestone,Refining,Non-Ferrous Metal,97.42,64.09,Zinc Ash
+Cold Rolling,Iron Ore,Rolling,Flux Material,33.26,38.67,Pickling Sludge
+Finishing & Grinding,Scrap Steel,Melting,Ferrous Metal,79.75,80.27,Pickling Sludge
+Electric Arc Furnace,Limestone,Coating,Ferrous Metal,49.8,39.42,EAF Dust
+Finishing & Grinding,Alloy Additives,Coating,Flux Material,85.65,56.32,Steel Scrap
+Galvanizing,Iron Ore,Melting,Flux Material,33.88,21.68,Zinc Ash
+Forging,Iron Ore,Rolling,Non-Ferrous Metal,71.7,66.03,Steel Scrap
+Electric Arc Furnace,Limestone,Refining,Non-Ferrous Metal,105.85,121.09,Waste Gas Sludge
+Forging,Coke,Refining,Fuel/Reductant,158.1,129.6,Mill Scale
+Cold Rolling,Iron Ore,Casting,Non-Ferrous Metal,136.62,167.04,Pickling Sludge
+Cold Rolling,Iron Ore,Melting,Fuel/Reductant,89.98,66.28,Mill Scale
+Galvanizing,Iron Ore,Casting,Coating Material,161.45,151.48,Zinc Ash
+Continuous Casting,Alloy Additives,Coating,Non-Ferrous Metal,82.36,70.25,Mill Scale
+Finishing & Grinding,Iron Ore,Coating,Fuel/Reductant,75.62,69.4,Pickling Sludge
+Forging,Zinc Coating Material,Refining,Non-Ferrous Metal,128.48,88.42,Steel Scrap
+Continuous Casting,Alloy Additives,Melting,Fuel/Reductant,94.7,89.28,Waste Gas Sludge
+Electric Arc Furnace,Limestone,Coating,Fuel/Reductant,47.6,36.22,Steel Scrap
+Basic Oxygen Furnace,Limestone,Rolling,Non-Ferrous Metal,29.96,20.94,Blast Furnace Slag
+Forging,Iron Ore,Refining,Flux Material,119.72,87.36,Steel Scrap
+Basic Oxygen Furnace,Scrap Steel,Rolling,Flux Material,56.51,66.57,Blast Furnace Slag
+Electric Arc Furnace,Limestone,Rolling,Non-Ferrous Metal,61.94,77.36,Waste Gas Sludge
+Galvanizing,Zinc Coating Material,Rolling,Ferrous Metal,87.43,75.38,Waste Gas Sludge
+Galvanizing,Alloy Additives,Melting,Flux Material,101.9,87.35,Zinc Ash
+Hot Rolling,Zinc Coating Material,Melting,Coating Material,89.22,103.24,Waste Gas Sludge
+Electric Arc Furnace,Alloy Additives,Finishing,Flux Material,58.26,62.39,Waste Gas Sludge
+Galvanizing,Limestone,Coating,Ferrous Metal,62.89,48.73,Zinc Ash
+Basic Oxygen Furnace,Alloy Additives,Finishing,Non-Ferrous Metal,63.05,37.86,Blast Furnace Slag
+Basic Oxygen Furnace,Zinc Coating Material,Rolling,Coating Material,96.02,108.04,Refractory Waste
+Hot Rolling,Coke,Casting,Flux Material,99.11,91.26,Mill Scale
+Electric Arc Furnace,Scrap Steel,Casting,Flux Material,61.95,77.1,Steel Scrap
+Basic Oxygen Furnace,Limestone,Finishing,Coating Material,75.99,61.1,Steel Scrap
+Cold Rolling,Limestone,Coating,Flux Material,63.66,59.05,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Rolling,Ferrous Metal,61.42,69.55,Blast Furnace Slag
+Cold Rolling,Scrap Steel,Melting,Non-Ferrous Metal,83.41,84.9,Pickling Sludge
+Finishing & Grinding,Iron Ore,Refining,Coating Material,67.56,48.61,Refractory Waste
+Continuous Casting,Limestone,Casting,Fuel/Reductant,144.84,107.63,Steel Scrap
+Cold Rolling,Iron Ore,Melting,Ferrous Metal,90.14,111.54,Steel Scrap
+Galvanizing,Limestone,Coating,Flux Material,29.36,27.92,Pickling Sludge
+Finishing & Grinding,Alloy Additives,Finishing,Coating Material,30.19,21.51,Pickling Sludge
+Cold Rolling,Alloy Additives,Refining,Flux Material,162.65,148.72,Pickling Sludge
+Finishing & Grinding,Coke,Casting,Ferrous Metal,66.23,52.77,Steel Scrap
+Continuous Casting,Alloy Additives,Refining,Coating Material,97.32,84.26,Mill Scale
+Continuous Casting,Iron Ore,Refining,Ferrous Metal,69.92,48.09,Mill Scale
+Continuous Casting,Limestone,Casting,Flux Material,138.26,105.89,Mill Scale
+Electric Arc Furnace,Zinc Coating Material,Casting,Flux Material,111.9,97.48,EAF Dust
+Continuous Casting,Alloy Additives,Casting,Ferrous Metal,169.57,104.02,Blast Furnace Slag
+Finishing & Grinding,Iron Ore,Rolling,Flux Material,88.55,67.66,Steel Scrap
+Galvanizing,Zinc Coating Material,Finishing,Flux Material,140.18,87.06,Zinc Ash
+Continuous Casting,Alloy Additives,Finishing,Fuel/Reductant,88.32,69.41,Mill Scale
+Finishing & Grinding,Scrap Steel,Refining,Coating Material,94.33,101.4,Mill Scale
+Finishing & Grinding,Coke,Melting,Flux Material,119.97,146.29,Steel Scrap
+Hot Rolling,Coke,Refining,Ferrous Metal,69.75,55.4,Mill Scale
+Basic Oxygen Furnace,Alloy Additives,Rolling,Non-Ferrous Metal,120.28,98.43,Blast Furnace Slag
+Electric Arc Furnace,Zinc Coating Material,Casting,Fuel/Reductant,149.17,97.74,EAF Dust
+Galvanizing,Limestone,Casting,Ferrous Metal,38.87,46.03,Zinc Ash
+Finishing & Grinding,Alloy Additives,Melting,Non-Ferrous Metal,71.74,52.37,Mill Scale
+Forging,Limestone,Casting,Non-Ferrous Metal,109.98,73.1,Mill Scale
+Forging,Zinc Coating Material,Rolling,Non-Ferrous Metal,78.38,79.68,Mill Scale
+Continuous Casting,Iron Ore,Casting,Fuel/Reductant,88.08,81.89,Blast Furnace Slag
+Galvanizing,Scrap Steel,Coating,Fuel/Reductant,16.68,18.78,Zinc Ash
+Cold Rolling,Limestone,Refining,Coating Material,102.78,120.48,Mill Scale
+Continuous Casting,Iron Ore,Refining,Fuel/Reductant,151.7,96.92,Mill Scale
+Cold Rolling,Alloy Additives,Casting,Fuel/Reductant,55.42,67.57,Mill Scale
+Electric Arc Furnace,Scrap Steel,Refining,Flux Material,163.9,202.65,EAF Dust
+Finishing & Grinding,Scrap Steel,Finishing,Flux Material,132.34,97.06,Steel Scrap
+Hot Rolling,Scrap Steel,Melting,Flux Material,51.3,43.07,Mill Scale
+Galvanizing,Alloy Additives,Rolling,Coating Material,136.58,152.21,Zinc Ash
+Finishing & Grinding,Zinc Coating Material,Melting,Flux Material,76.09,60.99,Mill Scale
+Cold Rolling,Iron Ore,Coating,Ferrous Metal,33.37,30.16,Pickling Sludge
+Continuous Casting,Coke,Refining,Ferrous Metal,82.57,56.28,Mill Scale
+Galvanizing,Scrap Steel,Casting,Flux Material,121.87,135.65,Zinc Ash
+Hot Rolling,Zinc Coating Material,Refining,Ferrous Metal,88.83,111.22,Steel Scrap
+Galvanizing,Coke,Finishing,Flux Material,94.78,116.47,Zinc Ash
+Galvanizing,Scrap Steel,Coating,Coating Material,139.01,115.21,Zinc Ash
+Continuous Casting,Alloy Additives,Casting,Flux Material,80.69,74.62,Refractory Waste
+Continuous Casting,Scrap Steel,Refining,Non-Ferrous Metal,88.38,113.69,Steel Scrap
+Basic Oxygen Furnace,Limestone,Rolling,Ferrous Metal,151.46,160.71,Blast Furnace Slag
+Electric Arc Furnace,Limestone,Casting,Flux Material,108.36,72.85,Steel Scrap
+Finishing & Grinding,Alloy Additives,Coating,Flux Material,94.54,118.82,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Refining,Non-Ferrous Metal,47.92,61.74,Steel Scrap
+Hot Rolling,Iron Ore,Melting,Fuel/Reductant,33.46,21.31,Steel Scrap
+Basic Oxygen Furnace,Scrap Steel,Rolling,Fuel/Reductant,57.83,53.24,Blast Furnace Slag
+Electric Arc Furnace,Limestone,Melting,Flux Material,106.46,106.92,EAF Dust
+Electric Arc Furnace,Scrap Steel,Melting,Coating Material,45.68,53.74,EAF Dust
+Continuous Casting,Zinc Coating Material,Casting,Ferrous Metal,81.7,69.75,Mill Scale
+Cold Rolling,Alloy Additives,Casting,Flux Material,141.67,117.55,Pickling Sludge
+Hot Rolling,Alloy Additives,Coating,Ferrous Metal,41.47,31.3,Mill Scale
+Electric Arc Furnace,Alloy Additives,Refining,Non-Ferrous Metal,18.68,21.78,Waste Gas Sludge
+Electric Arc Furnace,Zinc Coating Material,Melting,Non-Ferrous Metal,71.14,57.79,Waste Gas Sludge
+Finishing & Grinding,Coke,Finishing,Coating Material,133.22,91.0,Steel Scrap
+Basic Oxygen Furnace,Iron Ore,Casting,Fuel/Reductant,91.98,57.29,Blast Furnace Slag
+Forging,Scrap Steel,Casting,Ferrous Metal,102.07,90.38,Steel Scrap
+Finishing & Grinding,Coke,Finishing,Flux Material,102.24,101.58,Zinc Ash
+Finishing & Grinding,Scrap Steel,Rolling,Flux Material,54.53,35.33,Steel Scrap
+Finishing & Grinding,Iron Ore,Coating,Fuel/Reductant,55.05,69.19,Steel Scrap
+Hot Rolling,Scrap Steel,Rolling,Flux Material,77.83,50.88,Mill Scale
+Finishing & Grinding,Zinc Coating Material,Melting,Fuel/Reductant,113.16,133.93,Steel Scrap
+Basic Oxygen Furnace,Scrap Steel,Refining,Fuel/Reductant,30.8,31.67,Blast Furnace Slag
+Basic Oxygen Furnace,Zinc Coating Material,Refining,Ferrous Metal,44.83,38.04,Blast Furnace Slag
+Hot Rolling,Alloy Additives,Rolling,Ferrous Metal,62.1,66.64,Mill Scale
+Finishing & Grinding,Coke,Finishing,Coating Material,66.67,48.49,Mill Scale
+Forging,Coke,Rolling,Coating Material,92.51,109.08,Refractory Waste
+Cold Rolling,Iron Ore,Rolling,Ferrous Metal,81.71,99.32,Pickling Sludge
+Hot Rolling,Zinc Coating Material,Refining,Ferrous Metal,67.47,51.41,Blast Furnace Slag
+Finishing & Grinding,Zinc Coating Material,Melting,Non-Ferrous Metal,164.32,123.95,Steel Scrap
+Continuous Casting,Coke,Coating,Coating Material,85.66,107.42,Mill Scale
+Finishing & Grinding,Limestone,Refining,Flux Material,93.3,82.31,Mill Scale
+Cold Rolling,Alloy Additives,Casting,Coating Material,112.21,109.06,Mill Scale
+Electric Arc Furnace,Limestone,Melting,Fuel/Reductant,61.42,72.3,Steel Scrap
+Finishing & Grinding,Limestone,Melting,Ferrous Metal,167.85,198.58,Steel Scrap
+Cold Rolling,Zinc Coating Material,Refining,Fuel/Reductant,135.48,117.23,Pickling Sludge
+Forging,Limestone,Melting,Coating Material,90.11,69.91,Mill Scale
+Finishing & Grinding,Limestone,Coating,Non-Ferrous Metal,83.0,67.72,Mill Scale
+Finishing & Grinding,Alloy Additives,Rolling,Coating Material,136.38,112.87,Mill Scale
+Cold Rolling,Coke,Melting,Ferrous Metal,81.67,68.77,Mill Scale
+Galvanizing,Coke,Finishing,Coating Material,100.88,117.4,Zinc Ash
+Galvanizing,Limestone,Melting,Fuel/Reductant,80.46,63.25,Zinc Ash
+Galvanizing,Scrap Steel,Finishing,Non-Ferrous Metal,107.43,66.4,Zinc Ash
+Basic Oxygen Furnace,Zinc Coating Material,Melting,Flux Material,158.55,108.49,Blast Furnace Slag
+Galvanizing,Scrap Steel,Rolling,Fuel/Reductant,129.25,93.94,Pickling Sludge
+Cold Rolling,Scrap Steel,Finishing,Fuel/Reductant,46.68,45.86,Mill Scale
+Forging,Alloy Additives,Rolling,Flux Material,107.12,76.29,Steel Scrap
